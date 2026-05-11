@@ -1,7 +1,7 @@
 # LLMs Opinion Dynamics — Replication Code and Data
 
 Code and data to replicate the results of the paper  
-**"Opinion Dynamics and Collective Bias in Large Language Models"**.
+**"Conformity Generates Collective Misalignment in AI Agents Societies"**.
 
 ---
 
