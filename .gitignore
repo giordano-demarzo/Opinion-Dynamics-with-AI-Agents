@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.env
+SI_figures/*.png
+SI_figures/*.pdf
+data/*.png
+data/*.pdf

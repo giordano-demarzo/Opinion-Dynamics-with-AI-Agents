@@ -1,0 +1,17 @@
+# ── GPU / vLLM (open-weight models) ──────────────────────────────────────────
+# Requires CUDA 12.x driver (CUDA 13.x is incompatible with vllm 0.19.1)
+# transformers must be >=4.56.0 (ALLOWED_LAYER_TYPES symbol required by vllm)
+vllm==0.19.1
+torch==2.10.0
+transformers==4.57.6
+
+# ── API clients ───────────────────────────────────────────────────────────────
+google-genai==1.75.0
+openai==2.33.0
+
+# ── Scientific computing ──────────────────────────────────────────────────────
+numpy==1.26.4
+scipy==1.11.3
+pandas==2.1.1
+matplotlib==3.8.0
+tqdm
