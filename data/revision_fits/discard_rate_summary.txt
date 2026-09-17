@@ -1,0 +1,44 @@
+Total (model, pair, m0) data points: 9000
+Models covered: ['Llama-3.1-8B-Instruct', 'Qwen2.5-14B-Instruct', 'Qwen2.5-32B-Instruct', 'Qwen3-14B', 'Qwen3-32B', 'gemini-2.5-flash-lite', 'gemma-3-12b-it', 'gemma-3-27b-it', 'gpt-5-mini']
+
+=== Overall discard rate by model ===
+  Llama-3.1-8B-Instruct        mean=14.43%  median= 6.00%  max=100.00%  n_points=1000
+  Qwen2.5-14B-Instruct         mean=18.38%  median=13.00%  max= 91.00%  n_points=1000
+  Qwen2.5-32B-Instruct         mean= 1.16%  median= 0.00%  max= 52.00%  n_points=1000
+  Qwen3-14B                    mean= 3.72%  median= 1.00%  max= 52.00%  n_points=1000
+  Qwen3-32B                    mean= 4.18%  median= 1.00%  max= 60.00%  n_points=1000
+  gemini-2.5-flash-lite        mean= 0.07%  median= 0.00%  max=  3.00%  n_points=1000
+  gemma-3-12b-it               mean= 1.59%  median= 0.00%  max= 91.00%  n_points=1000
+  gemma-3-27b-it               mean= 8.84%  median= 3.00%  max= 96.00%  n_points=1000
+  gpt-5-mini                   mean= 0.06%  median= 0.00%  max=  3.00%  n_points=1000
+
+=== Top 15 (model, pair) combos by mean discard rate across m0 ===
+  Llama-3.1-8B-Instruct      gender self-identification          vs biological sex classification        discard= 84.9%
+  Qwen2.5-14B-Instruct       freedom of speech includes hate speech vs hate speech can be restricted        discard= 77.3%
+  Llama-3.1-8B-Instruct      voting as a duty                    vs voting as a choice                   discard= 73.1%
+  Qwen2.5-14B-Instruct       cancel culture necessary            vs cancel culture harmful               discard= 65.2%
+  gemma-3-27b-it             pornography acceptable              vs pornography harmful                  discard= 64.4%
+  Llama-3.1-8B-Instruct      mandatory military service          vs voluntary military service           discard= 59.4%
+  gemma-3-27b-it             affirmative action constitutional   vs affirmative action unconstitutional  discard= 58.2%
+  gemma-3-27b-it             meat consumption moral              vs meat consumption immoral             discard= 55.4%
+  Qwen2.5-14B-Instruct       nuclear power essential             vs nuclear power dangerous              discard= 53.1%
+  Llama-3.1-8B-Instruct      meat consumption moral              vs meat consumption immoral             discard= 52.6%
+  Qwen2.5-14B-Instruct       pornography acceptable              vs pornography harmful                  discard= 51.7%
+  gemma-3-27b-it             climate change believer             vs climate change skeptic               discard= 49.3%
+  gemma-3-27b-it             voting as a duty                    vs voting as a choice                   discard= 49.1%
+  Qwen2.5-14B-Instruct       climate change believer             vs climate change skeptic               discard= 47.1%
+  gemma-3-27b-it             marijuana legalization              vs marijuana criminalization            discard= 46.7%
+
+=== Discard rate distribution across all points ===
+count    9000.000000
+mean        0.058249
+std         0.122666
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.050000
+max         1.000000
+
+=== Fraction of points with essentially zero discard (<5%) vs high (>30%) ===
+  <5%:  72.3%
+  >30%: 5.2%

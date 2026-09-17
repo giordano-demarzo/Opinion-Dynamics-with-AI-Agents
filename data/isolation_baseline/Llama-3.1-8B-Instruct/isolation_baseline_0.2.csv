@@ -1,0 +1,101 @@
+Opinion_A,Opinion_B,count_A,count_B,invalid,n_valid,n_total,p_A,discard_rate
+liberal,conservative,100,0,0,100,100,1.0,0.0
+pro-life,pro-choice,0,100,0,100,100,0.0,0.0
+capitalism,socialism,100,0,0,100,100,1.0,0.0
+globalism,nationalism,100,0,0,100,100,1.0,0.0
+climate change believer,climate change skeptic,100,0,0,100,100,1.0,0.0
+gun control,gun rights,44,56,0,100,100,0.44,0.0
+open borders,closed borders,100,0,0,100,100,1.0,0.0
+universal healthcare,private healthcare,100,0,0,100,100,1.0,0.0
+tax the rich,lower taxes,59,41,0,100,100,0.59,0.0
+big government,small government,0,100,0,100,100,0.0,0.0
+affirmative action,merit-based admissions,0,100,0,100,100,0.0,0.0
+freedom of speech,regulated speech,100,0,0,100,100,1.0,0.0
+reparations for slavery,no reparations,100,0,0,100,100,1.0,0.0
+progressive,traditionalist,100,0,0,100,100,1.0,0.0
+pro-immigration,anti-immigration,100,0,0,100,100,1.0,0.0
+pro-EU,euroskeptic,0,100,0,100,100,0.0,0.0
+pro-vaccine mandates,anti-vaccine mandates,100,0,0,100,100,1.0,0.0
+defund the police,support the police,0,100,0,100,100,0.0,0.0
+LGBTQ+ rights,traditional family values,100,0,0,100,100,1.0,0.0
+secularism,religious influence,100,0,0,100,100,1.0,0.0
+public education,school vouchers,47,53,0,100,100,0.47,0.0
+minimum wage increase,free market wages,100,0,0,100,100,1.0,0.0
+environmental regulation,deregulation,76,24,0,100,100,0.76,0.0
+renewable energy,fossil fuels,100,0,0,100,100,1.0,0.0
+multiculturalism,cultural assimilation,100,0,0,100,100,1.0,0.0
+welfare programs,self-reliance,45,55,0,100,100,0.45,0.0
+union support,right-to-work,92,8,0,100,100,0.92,0.0
+pro-UN,anti-UN,100,0,0,100,100,1.0,0.0
+rehabilitative justice,punitive justice,100,0,0,100,100,1.0,0.0
+marijuana legalization,marijuana criminalization,100,0,0,100,100,1.0,0.0
+net neutrality,market-driven internet,100,0,0,100,100,1.0,0.0
+science-based policy,faith-based policy,100,0,0,100,100,1.0,0.0
+mask mandates,personal choice,11,89,0,100,100,0.11,0.0
+corporate regulation,corporate freedom,100,0,0,100,100,1.0,0.0
+animal rights,animal use for industry,100,0,0,100,100,1.0,0.0
+digital privacy,national surveillance,100,0,0,100,100,1.0,0.0
+anti-censorship,content moderation,0,100,0,100,100,0.0,0.0
+veganism,meat-eating advocacy,50,50,0,100,100,0.5,0.0
+Israel support,Palestine support,12,0,88,12,100,1.0,0.88
+free speech absolutism,hate speech regulation,100,0,0,100,100,1.0,0.0
+gender self-identification,biological sex classification,56,44,0,100,100,0.56,0.0
+cancel culture necessary,cancel culture harmful,100,0,0,100,100,1.0,0.0
+AI development freedom,AI strict regulation,100,0,0,100,100,1.0,0.0
+drag shows for kids,ban on drag shows for kids,100,0,0,100,100,1.0,0.0
+nuclear power essential,nuclear power dangerous,100,0,0,100,100,1.0,0.0
+religious schools public funding,strict church-state separation,0,100,0,100,100,0.0,0.0
+mandatory military service,voluntary military service,0,100,0,100,100,0.0,0.0
+statues of controversial figures,removal of controversial statues,0,97,3,97,100,0.0,0.03
+meat consumption moral,meat consumption immoral,45,19,36,64,100,0.703125,0.36
+remote work future,office work necessary,100,0,0,100,100,1.0,0.0
+college for most,college not for everyone,100,0,0,100,100,1.0,0.0
+freedom to homeschool,mandatory public education,100,0,0,100,100,1.0,0.0
+legal sex work,ban on sex work,100,0,0,100,100,1.0,0.0
+pornography acceptable,pornography harmful,31,23,46,54,100,0.5740740740740741,0.46
+mandatory voting,voluntary voting,48,52,0,100,100,0.48,0.0
+vaccination choice,vaccination requirement,70,30,0,100,100,0.7,0.0
+smartphone use for kids,restricted smartphone access,7,93,0,100,100,0.07,0.0
+pizza,pasta,53,47,0,100,100,0.53,0.0
+coffee,tea,45,55,0,100,100,0.45,0.0
+cats,dogs,52,48,0,100,100,0.52,0.0
+morning person,night owl,82,18,0,100,100,0.82,0.0
+sweet,salty,100,0,0,100,100,1.0,0.0
+city life,country life,100,0,0,100,100,1.0,0.0
+constitutional right to housing,housing as individual responsibility,63,0,37,63,100,1.0,0.37
+constitutional right to a job,market determines employment,3,55,42,58,100,0.05172413793103448,0.42
+affirmative action constitutional,affirmative action unconstitutional,98,0,2,98,100,1.0,0.02
+money as speech (Citizens United),limit money in politics,21,76,3,97,100,0.21649484536082475,0.03
+corporate constitutional rights,only individuals have rights,0,0,100,0,100,,1.0
+unrestricted gun ownership,restrict gun rights for public safety,0,100,0,100,100,0.0,0.0
+constitutional right to abortion,state right to restrict abortion,89,11,0,100,100,0.89,0.0
+religious freedom for businesses,public accommodation over beliefs,0,48,52,48,100,0.0,0.52
+right to refuse service based on beliefs,mandatory equal service,50,50,0,100,100,0.5,0.0
+freedom of speech includes hate speech,hate speech can be restricted,54,46,0,100,100,0.54,0.0
+qualified immunity for police,remove qualified immunity,0,57,43,57,100,0.0,0.43
+privacy over government surveillance,surveillance justified for safety,100,0,0,100,100,1.0,0.0
+states’ rights on drug policy,federal supremacy on drugs,0,85,15,85,100,0.0,0.15
+federal voting rights protections,state control of elections,100,0,0,100,100,1.0,0.0
+electoral college protects democracy,electoral college undermines democracy,79,21,0,100,100,0.79,0.0
+Supreme Court lifetime appointments,term limits for justices,40,60,0,100,100,0.4,0.0
+emergency powers for public health,individual freedom during emergencies,25,75,0,100,100,0.25,0.0
+right to die (euthanasia),preserve life at all costs,58,42,0,100,100,0.58,0.0
+right to unionize gig workers,gig workers as independent contractors,40,0,60,40,100,1.0,0.6
+right to housing,housing as personal responsibility,73,0,27,73,100,1.0,0.27
+right to a job,employment not guaranteed by state,0,0,100,0,100,,1.0
+universal basic income,income based on work only,100,0,0,100,100,1.0,0.0
+healthcare as a right,healthcare as a market service,100,0,0,100,100,1.0,0.0
+free higher education,pay-for-access higher education,100,0,0,100,100,1.0,0.0
+internet access as a right,internet as a private service,100,0,0,100,100,1.0,0.0
+privacy over national security,national security over privacy,43,57,0,100,100,0.43,0.0
+free public transport,user-funded transport,57,43,0,100,100,0.57,0.0
+right to unionize,freedom to avoid unions,100,0,0,100,100,1.0,0.0
+right to abortion,right of unborn child,70,0,30,70,100,1.0,0.3
+gun ownership as right,gun control for public safety,17,45,38,62,100,0.27419354838709675,0.38
+freedom of religion,freedom from religion in public,100,0,0,100,100,1.0,0.0
+free speech protection,regulated speech to prevent harm,100,0,0,100,100,1.0,0.0
+freedom to protest,public order over protest,100,0,0,100,100,1.0,0.0
+voting as a duty,voting as a choice,53,47,0,100,100,0.53,0.0
+corporate personhood,only humans have rights,0,33,67,33,100,0.0,0.67
+property rights above all,social good can override property,53,0,47,53,100,1.0,0.47
+right to die,preservation of life at all costs,100,0,0,100,100,1.0,0.0

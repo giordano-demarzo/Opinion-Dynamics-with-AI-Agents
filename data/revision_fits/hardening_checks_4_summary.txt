@@ -1,0 +1,24 @@
+n curves = 899
+Metastable fraction by estimator:
+  WLS, variance floor 1e-4 (paper, fits_with_ci.csv)  66.1%   agreement with paper 100.0%
+  WLS, variance floor 1e-4 (refit here)             66.1%   agreement with paper 100.0%
+  WLS, Agresti-Coull variance                       58.0%   agreement with paper  91.8%
+  unweighted least squares                          53.4%   agreement with paper  87.3%
+  exact binomial MLE                                53.2%   agreement with paper  87.1%
+Paper robust (bootstrap-inflated |z|>2): 78.4% of curves; robust metastable 54.2%, robust monostable 24.2%
+  ac: disagreements n=74; of these unresolved in paper's bootstrap: 71.6%;  agreement among robust curves: 97.0%
+  unw: disagreements n=114; of these unresolved in paper's bootstrap: 64.9%;  agreement among robust curves: 94.3%
+  mle: disagreements n=116; of these unresolved in paper's bootstrap: 62.9%;  agreement among robust curves: 93.9%
+MLE vs paper: median beta ratio 0.72; median |h| ratio 1.02; Spearman h 0.943
+MLE/paper disagreements: paper-meta/MLE-mono 116, paper-mono/MLE-meta 0; median paper |z| among them 1.32 vs 7.35 among agreements
+Metastable among curves robust in paper AND classified by all 4 estimators identically: 66.9%  (n=658)
+Per-model MLE metastable % (paper % in parentheses):
+  Llama-3.1-8B-Instruct       27.3%  (41%)
+  Qwen2.5-14B-Instruct        66.0%  (97%)
+  Qwen2.5-32B-Instruct        72.0%  (83%)
+  Qwen3-14B                   56.0%  (67%)
+  Qwen3-32B                   43.0%  (52%)
+  gemini-2.5-flash-lite       56.0%  (67%)
+  gemma-3-12b-it              69.0%  (80%)
+  gemma-3-27b-it              62.0%  (70%)
+  gpt-5-mini                  27.0%  (37%)

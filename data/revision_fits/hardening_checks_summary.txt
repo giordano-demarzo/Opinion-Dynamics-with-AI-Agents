@@ -1,0 +1,53 @@
+==============================================================================
+A. Likelihood-ratio and sign test for the marginal-majority jump term  (n=900 main-set curves)
+==============================================================================
+LRT p<0.05 (chi2, 1 dof):            40.8%  (5% expected under H0)
+LRT p<0.05 among beta>1:             39.4%  (n=858)
+LRT p<0.01:                          26.8%
+BIC favors jump (dBIC<-2):           37.8%
+Sign of M, all curves              : M>0 in 619/900 = 68.8%   binomial p vs 50% = 0.000
+Sign of M, LRT-significant curves  : M>0 in 261/367 = 71.1%   binomial p vs 50% = 0.000
+Sign of M, BIC-preferred curves    : M>0 in 240/340 = 70.6%   binomial p vs 50% = 0.000
+Median |M| overall: 0.0199;  median |M| among LRT-significant: 0.0761
+Median beta, LRT-significant vs not: 2.39 vs 2.78  (Mann-Whitney p=9.56e-12)
+Per model: LRT-significant fraction / fraction of those with M>0
+  Llama-3.1-8B-Instruct       48.0%   M>0:  58.3%  (n_sig=48)
+  Qwen2.5-14B-Instruct        35.0%   M>0:  62.9%  (n_sig=35)
+  Qwen2.5-32B-Instruct        45.0%   M>0:  86.7%  (n_sig=45)
+  Qwen3-14B                   51.0%   M>0:  86.3%  (n_sig=51)
+  Qwen3-32B                   47.0%   M>0:  74.5%  (n_sig=47)
+  gemini-2.5-flash-lite       32.0%   M>0:  78.1%  (n_sig=32)
+  gemma-3-12b-it              47.0%   M>0:  83.0%  (n_sig=47)
+  gemma-3-27b-it              27.0%   M>0:  59.3%  (n_sig=27)
+  gpt-5-mini                  35.0%   M>0:  37.1%  (n_sig=35)
+
+==============================================================================
+B. Family-independence of the collective classification: ramp vs tanh
+==============================================================================
+Classification agreement (ramp bistable <-> tanh metastable): 90.2%  (n=900)
+  both metastable 428, both monostable 384, tanh-only 50, ramp-only 38;  Cohen's kappa = 0.80
+Metastable fraction: tanh 53.1%   ramp 51.8%
+Supercritical fraction: tanh beta>1 95.3%   ramp k>1 80.1%
+Agreement among curves where ramp has lower BIC than tanh: 91.8% (n=231)
+Agreement among robustly classified combos (analytic 2 SE): 92.6% (n=795)
+Spearman(h_tanh, h_ramp) = 0.992
+
+==============================================================================
+C. Discard-stratified metastable fraction (main set)
+==============================================================================
+n combos with discard data: 899
+  mean discard in [0%, 1%): n= 447  metastable= 64.9%  robust-unresolved= 13.6%  median|h|=0.29
+  mean discard in [1%, 5%): n= 182  metastable= 66.5%  robust-unresolved=  8.2%  median|h|=0.29
+  mean discard in [5%, 30%): n= 227  metastable= 68.3%  robust-unresolved= 11.0%  median|h|=0.31
+  mean discard in [30%, 101%): n=  43  metastable= 65.1%  robust-unresolved=  7.0%  median|h|=0.39
+Headline restricted to combos with mean discard <5%: 65.3% metastable (n=629) vs 66.1% overall
+Spearman(mean discard, metastable): 0.043
+
+==============================================================================
+D. Bootstrap classification robustness for the new pair sets (200 replicates)
+==============================================================================
+Robust = point classification reproduced in >=95% of bootstrap replicates (~2 sigma).
+Pew 2017 typology    fits=105  metastable= 38.1%  robust metastable= 35.2%  robust monostable= 50.5%  unresolved= 14.3%
+GlobalOpinionQA      fits=134  metastable= 54.5%  robust metastable= 49.3%  robust monostable= 38.1%  unresolved= 12.7%
+Safety-grounded      fits=175  metastable= 24.0%  robust metastable= 18.9%  robust monostable= 66.3%  unresolved= 14.9%
+Pooled held-out (Pew+GOQA): fits=239 metastable=47.3% robust metastable=43.1% unresolved=13.4%

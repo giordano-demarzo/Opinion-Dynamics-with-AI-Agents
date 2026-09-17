@@ -1,0 +1,4 @@
+Opinion_A,Opinion_B,count_A,count_B,invalid,n_valid,n_total,p_A,discard_rate
+liberal,conservative,3,0,2,3,5,1.0,0.4
+pro-life,pro-choice,0,0,5,0,5,,1.0
+capitalism,socialism,5,0,0,5,5,1.0,0.0

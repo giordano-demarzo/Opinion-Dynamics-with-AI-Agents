@@ -1,0 +1,19 @@
+N (model,pair) with valid isolation + fit data: 896
+Mean |isolation p_A - balanced-collective P(m=0)|: 0.232
+Median |diff|: 0.145
+Pearson correlation(isolation p_A, collective P(m=0)): 0.602
+Fraction with |diff| > 0.3 (isolation disagrees strongly with collective balanced-start): 31.5%
+Fraction where isolation and collective majority DISAGREE in direction (sign flip around 0.5): 22.5%
+
+Discard rate (isolation prompt, no social info):
+  Mean: 0.029   Median: 0.000
+  By model:
+    Llama-3.1-8B-Instruct        mean discard=0.084  max discard=1.000
+    Qwen2.5-14B-Instruct         mean discard=0.009  max discard=0.490
+    Qwen2.5-32B-Instruct         mean discard=0.010  max discard=0.520
+    Qwen3-14B                    mean discard=0.028  max discard=0.990
+    Qwen3-32B                    mean discard=0.033  max discard=0.760
+    gemini-2.5-flash-lite        mean discard=0.049  max discard=0.840
+    gemma-3-12b-it               mean discard=0.031  max discard=1.000
+    gemma-3-27b-it               mean discard=0.010  max discard=0.490
+    gpt-5-mini                   mean discard=0.005  max discard=0.210

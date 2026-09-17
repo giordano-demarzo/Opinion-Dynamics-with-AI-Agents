@@ -1,0 +1,5 @@
+N combos with both analytic and bootstrap SEs: 898
+Median ratio (bootstrap SD / analytic SE) for beta: 1.30
+Median ratio (bootstrap SD / analytic SE) for h:    1.15
+(ratio near 1 means the analytic SEs from ci_analysis.py are well-calibrated;
+ ratio > 1 means analytic SEs were too optimistic, bootstrap gives wider/more conservative bands)

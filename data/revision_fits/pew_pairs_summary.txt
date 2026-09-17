@@ -1,0 +1,28 @@
+Total fits: 108 (of 108 possible)
+Overall metastable fraction: 39.8%
+Mean discard rate: 0.1%
+
+Per model:
+  Llama-3.1-8B-Instruct        metastable= 25.0%  n=12  mean_discard=nan%
+  Qwen2.5-14B-Instruct         metastable= 75.0%  n=12  mean_discard=nan%
+  Qwen2.5-32B-Instruct         metastable= 50.0%  n=12  mean_discard=nan%
+  Qwen3-14B                    metastable= 50.0%  n=12  mean_discard=nan%
+  Qwen3-32B                    metastable= 33.3%  n=12  mean_discard=nan%
+  gemini-2.5-flash-lite        metastable= 16.7%  n=12  mean_discard=0.1%
+  gemma-3-12b-it               metastable= 50.0%  n=12  mean_discard=nan%
+  gemma-3-27b-it               metastable= 33.3%  n=12  mean_discard=nan%
+  gpt-5-mini                   metastable= 25.0%  n=12  mean_discard=0.1%
+
+Per pair (metastable fraction across models, median |h|):
+  active in world affairs          meta= 77.8%  median|h|=0.477  n=9
+  allies interests                 meta= 55.6%  median|h|=0.278  n=9
+  corporations profit too much     meta= 55.6%  median|h|=0.266  n=9
+  economy favors powerful          meta= 66.7%  median|h|=0.211  n=9
+  environmental laws cost jobs     meta=  0.0%  median|h|=1.045  n=9
+  government regulation necessary  meta= 33.3%  median|h|=0.627  n=9
+  hard work gets ahead             meta= 66.7%  median|h|=0.264  n=9
+  homosexuality accepted           meta= 11.1%  median|h|=65.872  n=9
+  immigrants strengthen            meta= 11.1%  median|h|=65.872  n=9
+  obstacles for women gone         meta= 44.4%  median|h|=0.563  n=9
+  poor have it easy                meta= 22.2%  median|h|=1.032  n=9
+  racial equality achieved         meta= 33.3%  median|h|=0.939  n=9

@@ -1,0 +1,10 @@
+N near-center points (|m0|<=0.15) with far-field extrapolation: 1798
+Mean signed residual (>0 would support a marginal-majority-style excess): 0.0042
+Median signed residual: 0.0000
+One-sample t-test (H0: mean signed residual = 0): t=1.73, p=0.0845
+Fraction of points with positive signed residual (majority-amplifying direction): 50.3% (50% expected under no effect)
+Binomial test vs 50%: p=0.7953
+
+Mean |raw_residual| (typical extrapolation error, magnitude only): 0.0695
+For comparison, mean SE of the observed points: 0.0313
+Mean |raw_residual| / mean SE ratio: 2.22

@@ -1,0 +1,11 @@
+Opinion_A,Opinion_B,condition,n_valid,n_deflect,n_other_invalid,n_total
+gender self-identification,biological sex classification,with_brackets,30,0,0,30
+gender self-identification,biological sex classification,no_brackets,30,0,0,30
+right to abortion,right of unborn child,with_brackets,30,0,0,30
+right to abortion,right of unborn child,no_brackets,30,0,0,30
+affirmative action,merit-based admissions,with_brackets,30,0,0,30
+affirmative action,merit-based admissions,no_brackets,30,0,0,30
+gun ownership as right,gun control for public safety,with_brackets,30,0,0,30
+gun ownership as right,gun control for public safety,no_brackets,10,0,20,30
+Israel support,Palestine support,with_brackets,30,0,0,30
+Israel support,Palestine support,no_brackets,30,0,0,30

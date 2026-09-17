@@ -1,0 +1,109 @@
+Model,pew_question_id,short_label,Opinion_A,beta,h,classification,mean_discard
+Llama-3.1-8B-Instruct,Q25b,government regulation necessary,Government regulation of business is necessary to protect the public interest,5.213837676049392,0.5463560347178056,metastable,
+Llama-3.1-8B-Instruct,Q25c,poor have it easy,Poor people today have it easy because they can get government benefits without doing anything in return,1.707097473545652,-1.2102031178363073,monostable,
+Llama-3.1-8B-Instruct,Q25g,immigrants strengthen,Immigrants today strengthen our country because of their hard work and talents,0.17757173380581123,65.87164429560006,monostable,
+Llama-3.1-8B-Instruct,Q25k,hard work gets ahead,Most people who want to get ahead can make it if they're willing to work hard,2.368206101037054,0.8112956840232579,monostable,
+Llama-3.1-8B-Instruct,Q25n,corporations profit too much,Business corporations make too much profit,17.09979384021422,-0.9343184859332122,monostable,
+Llama-3.1-8B-Instruct,Q50r,environmental laws cost jobs,Stricter environmental laws and regulations cost too many jobs and hurt the economy,0.1613584438311654,-74.91256338990529,monostable,
+Llama-3.1-8B-Instruct,Q50u,homosexuality accepted,Homosexuality should be accepted by society,0.17757173380581123,65.87164429560006,monostable,
+Llama-3.1-8B-Instruct,Q50cc,allies interests,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",5.706310396621304,0.8040733478117364,monostable,
+Llama-3.1-8B-Instruct,Q50ee,active in world affairs,It's best for the future of our country to be active in world affairs,2.904317570588683,1.0261340358157445,monostable,
+Llama-3.1-8B-Instruct,Q50hh,racial equality achieved,Our country has made the changes needed to give blacks equal rights with whites,3.187351546353438,0.016141589321033264,metastable,
+Llama-3.1-8B-Instruct,Q51ll,economy favors powerful,The economic system in this country unfairly favors powerful interests,5.451865523787038,-0.21072659397668198,metastable,
+Llama-3.1-8B-Instruct,Q51nn,obstacles for women gone,The obstacles that once made it harder for women than men to get ahead are now largely gone,2.3702731658266125,0.5891001963720645,monostable,
+gemma-3-12b-it,Q25b,government regulation necessary,Government regulation of business is necessary to protect the public interest,2.6093847796377565,1.1698052825996434,monostable,
+gemma-3-12b-it,Q25c,poor have it easy,Poor people today have it easy because they can get government benefits without doing anything in return,77.7427949255023,-0.9450301027955577,metastable,
+gemma-3-12b-it,Q25g,immigrants strengthen,Immigrants today strengthen our country because of their hard work and talents,0.17757173380581123,65.87164429560006,monostable,
+gemma-3-12b-it,Q25k,hard work gets ahead,Most people who want to get ahead can make it if they're willing to work hard,4.825911790810901,-0.05139887619909789,metastable,
+gemma-3-12b-it,Q25n,corporations profit too much,Business corporations make too much profit,4.272168453037998,-1.0441685647839498,monostable,
+gemma-3-12b-it,Q50r,environmental laws cost jobs,Stricter environmental laws and regulations cost too many jobs and hurt the economy,18.64477578911828,-0.9232245609028609,monostable,
+gemma-3-12b-it,Q50u,homosexuality accepted,Homosexuality should be accepted by society,0.17757173380581123,65.87164429560006,monostable,
+gemma-3-12b-it,Q50cc,allies interests,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",8.907892929348485,0.49082713440984715,metastable,
+gemma-3-12b-it,Q50ee,active in world affairs,It's best for the future of our country to be active in world affairs,53.02623433348711,0.5875068875690868,metastable,
+gemma-3-12b-it,Q50hh,racial equality achieved,Our country has made the changes needed to give blacks equal rights with whites,7.8591571858713,-1.0853769228689356,monostable,
+gemma-3-12b-it,Q51ll,economy favors powerful,The economic system in this country unfairly favors powerful interests,7.967495822330405,-0.045794409475950676,metastable,
+gemma-3-12b-it,Q51nn,obstacles for women gone,The obstacles that once made it harder for women than men to get ahead are now largely gone,9.96921384129211,-0.5625894524280999,metastable,
+gemma-3-27b-it,Q25b,government regulation necessary,Government regulation of business is necessary to protect the public interest,6.343053726732373,0.29964050600266046,metastable,
+gemma-3-27b-it,Q25c,poor have it easy,Poor people today have it easy because they can get government benefits without doing anything in return,3.773471986091787,-1.0462757390643578,monostable,
+gemma-3-27b-it,Q25g,immigrants strengthen,Immigrants today strengthen our country because of their hard work and talents,64.54612674102351,0.946930127413366,metastable,
+gemma-3-27b-it,Q25k,hard work gets ahead,Most people who want to get ahead can make it if they're willing to work hard,2.4830566561459957,-0.5866933773086888,monostable,
+gemma-3-27b-it,Q25n,corporations profit too much,Business corporations make too much profit,5.714837157748275,-0.24920030489612618,metastable,
+gemma-3-27b-it,Q50r,environmental laws cost jobs,Stricter environmental laws and regulations cost too many jobs and hurt the economy,12.451474462199686,-0.8976929946227831,monostable,
+gemma-3-27b-it,Q50u,homosexuality accepted,Homosexuality should be accepted by society,0.17757173380581123,65.87164429560006,monostable,
+gemma-3-27b-it,Q50cc,allies interests,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",1.8608445626985817,0.2776641374517217,monostable,
+gemma-3-27b-it,Q50ee,active in world affairs,It's best for the future of our country to be active in world affairs,8.806548004839874,0.47742085922080024,metastable,
+gemma-3-27b-it,Q50hh,racial equality achieved,Our country has made the changes needed to give blacks equal rights with whites,3.3862237922104326,-1.355008548637246,monostable,
+gemma-3-27b-it,Q51ll,economy favors powerful,The economic system in this country unfairly favors powerful interests,4.94835803178011,0.9687187165605999,monostable,
+gemma-3-27b-it,Q51nn,obstacles for women gone,The obstacles that once made it harder for women than men to get ahead are now largely gone,5.068646557018298,-0.9494550510979445,monostable,
+Qwen2.5-14B-Instruct,Q25b,government regulation necessary,Government regulation of business is necessary to protect the public interest,4.688567657736595,0.0742331980328624,metastable,
+Qwen2.5-14B-Instruct,Q25c,poor have it easy,Poor people today have it easy because they can get government benefits without doing anything in return,0.1599726701695471,-28.01803988104124,monostable,
+Qwen2.5-14B-Instruct,Q25g,immigrants strengthen,Immigrants today strengthen our country because of their hard work and talents,0.14705319026763447,80.10999597264383,monostable,
+Qwen2.5-14B-Instruct,Q25k,hard work gets ahead,Most people who want to get ahead can make it if they're willing to work hard,3.309295290469886,0.10134806682300958,metastable,
+Qwen2.5-14B-Instruct,Q25n,corporations profit too much,Business corporations make too much profit,3.0780611926891988,-0.4211786006814512,metastable,
+Qwen2.5-14B-Instruct,Q50r,environmental laws cost jobs,Stricter environmental laws and regulations cost too many jobs and hurt the economy,5.467616181141584,-0.8818244466460542,monostable,
+Qwen2.5-14B-Instruct,Q50u,homosexuality accepted,Homosexuality should be accepted by society,78.98470745947174,0.9354608854875751,metastable,
+Qwen2.5-14B-Instruct,Q50cc,allies interests,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",7.420077979861367,0.23786427985445094,metastable,
+Qwen2.5-14B-Instruct,Q50ee,active in world affairs,It's best for the future of our country to be active in world affairs,3.2803270444908716,0.3070681737578353,metastable,
+Qwen2.5-14B-Instruct,Q50hh,racial equality achieved,Our country has made the changes needed to give blacks equal rights with whites,7.141525438712803,-0.597500022227992,metastable,
+Qwen2.5-14B-Instruct,Q51ll,economy favors powerful,The economic system in this country unfairly favors powerful interests,4.8528143313096646,0.04150099024044062,metastable,
+Qwen2.5-14B-Instruct,Q51nn,obstacles for women gone,The obstacles that once made it harder for women than men to get ahead are now largely gone,4.040477211808754,-0.1237208806391837,metastable,
+Qwen2.5-32B-Instruct,Q25b,government regulation necessary,Government regulation of business is necessary to protect the public interest,3.943233751267697,0.5383626281069719,monostable,
+Qwen2.5-32B-Instruct,Q25c,poor have it easy,Poor people today have it easy because they can get government benefits without doing anything in return,79.45970317961064,-0.9418733430287387,metastable,
+Qwen2.5-32B-Instruct,Q25g,immigrants strengthen,Immigrants today strengthen our country because of their hard work and talents,0.17757173380581123,65.87164429560006,monostable,
+Qwen2.5-32B-Instruct,Q25k,hard work gets ahead,Most people who want to get ahead can make it if they're willing to work hard,3.4634368239921756,0.1761362916871542,metastable,
+Qwen2.5-32B-Instruct,Q25n,corporations profit too much,Business corporations make too much profit,3.658306523039903,-0.23446903335849578,metastable,
+Qwen2.5-32B-Instruct,Q50r,environmental laws cost jobs,Stricter environmental laws and regulations cost too many jobs and hurt the economy,0.1613584438311654,-74.91256338990529,monostable,
+Qwen2.5-32B-Instruct,Q50u,homosexuality accepted,Homosexuality should be accepted by society,0.17757173380581123,65.87164429560006,monostable,
+Qwen2.5-32B-Instruct,Q50cc,allies interests,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",3.3669168324470964,0.20747082334720482,metastable,
+Qwen2.5-32B-Instruct,Q50ee,active in world affairs,It's best for the future of our country to be active in world affairs,3.7260567377033293,0.2031782444767962,metastable,
+Qwen2.5-32B-Instruct,Q50hh,racial equality achieved,Our country has made the changes needed to give blacks equal rights with whites,0.1613584438311654,-74.91256338990529,monostable,
+Qwen2.5-32B-Instruct,Q51ll,economy favors powerful,The economic system in this country unfairly favors powerful interests,6.317068169994535,0.07670859396007147,metastable,
+Qwen2.5-32B-Instruct,Q51nn,obstacles for women gone,The obstacles that once made it harder for women than men to get ahead are now largely gone,2.3101242593579254,-0.518527712295394,monostable,
+Qwen3-14B,Q25b,government regulation necessary,Government regulation of business is necessary to protect the public interest,3.575378114672763,0.6274029076231193,monostable,
+Qwen3-14B,Q25c,poor have it easy,Poor people today have it easy because they can get government benefits without doing anything in return,1.9369688166840409,-1.0320400034344628,monostable,
+Qwen3-14B,Q25g,immigrants strengthen,Immigrants today strengthen our country because of their hard work and talents,0.17757173380581123,65.87164429560006,monostable,
+Qwen3-14B,Q25k,hard work gets ahead,Most people who want to get ahead can make it if they're willing to work hard,5.706842824006064,0.059771371559282256,metastable,
+Qwen3-14B,Q25n,corporations profit too much,Business corporations make too much profit,4.938242837341945,-0.19743249860520942,metastable,
+Qwen3-14B,Q50r,environmental laws cost jobs,Stricter environmental laws and regulations cost too many jobs and hurt the economy,0.1613584438311654,-74.91256338990529,monostable,
+Qwen3-14B,Q50u,homosexuality accepted,Homosexuality should be accepted by society,0.17757173380581123,65.87164429560006,monostable,
+Qwen3-14B,Q50cc,allies interests,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",4.428374673513039,0.15939802871889133,metastable,
+Qwen3-14B,Q50ee,active in world affairs,It's best for the future of our country to be active in world affairs,4.546071239112189,0.15070137449101625,metastable,
+Qwen3-14B,Q50hh,racial equality achieved,Our country has made the changes needed to give blacks equal rights with whites,81.82784507321519,-0.9379916688272059,metastable,
+Qwen3-14B,Q51ll,economy favors powerful,The economic system in this country unfairly favors powerful interests,3.5592006456334238,0.59878674137298,monostable,
+Qwen3-14B,Q51nn,obstacles for women gone,The obstacles that once made it harder for women than men to get ahead are now largely gone,3.7601923093384926,0.20978690646565706,metastable,
+Qwen3-32B,Q25b,government regulation necessary,Government regulation of business is necessary to protect the public interest,5.311967580853846,0.7962398707822762,monostable,
+Qwen3-32B,Q25c,poor have it easy,Poor people today have it easy because they can get government benefits without doing anything in return,6.745556709335178,-0.744809235389297,monostable,
+Qwen3-32B,Q25g,immigrants strengthen,Immigrants today strengthen our country because of their hard work and talents,0.17757173380581123,65.87164429560006,monostable,
+Qwen3-32B,Q25k,hard work gets ahead,Most people who want to get ahead can make it if they're willing to work hard,3.311762923723046,-0.26367401007753294,metastable,
+Qwen3-32B,Q25n,corporations profit too much,Business corporations make too much profit,2.3812514463272088,-0.5845066749608321,monostable,
+Qwen3-32B,Q50r,environmental laws cost jobs,Stricter environmental laws and regulations cost too many jobs and hurt the economy,0.1613584438311654,-74.91256338990529,monostable,
+Qwen3-32B,Q50u,homosexuality accepted,Homosexuality should be accepted by society,0.17757173380581123,65.87164429560006,monostable,
+Qwen3-32B,Q50cc,allies interests,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",4.7525143186754555,0.04895421899416208,metastable,
+Qwen3-32B,Q50ee,active in world affairs,It's best for the future of our country to be active in world affairs,5.799446215108904,0.6663462210815286,monostable,
+Qwen3-32B,Q50hh,racial equality achieved,Our country has made the changes needed to give blacks equal rights with whites,16.56813609864693,-0.9386810520427881,monostable,
+Qwen3-32B,Q51ll,economy favors powerful,The economic system in this country unfairly favors powerful interests,7.506121104870133,0.23660317454968274,metastable,
+Qwen3-32B,Q51nn,obstacles for women gone,The obstacles that once made it harder for women than men to get ahead are now largely gone,5.076589175463065,-0.026162362546135368,metastable,
+gemini-2.5-flash-lite,Q25b,government regulation necessary,Government regulation of business is necessary to protect the public interest,5.022348145862683,0.8183119319208352,monostable,0.001
+gemini-2.5-flash-lite,Q25c,poor have it easy,Poor people today have it easy because they can get government benefits without doing anything in return,3.0893388615135335,-0.8099244467078293,monostable,0.001
+gemini-2.5-flash-lite,Q25g,immigrants strengthen,Immigrants today strengthen our country because of their hard work and talents,7.758600310395508,1.0824213842191328,monostable,0.0
+gemini-2.5-flash-lite,Q25k,hard work gets ahead,Most people who want to get ahead can make it if they're willing to work hard,0.8369131120450436,-0.320577672559359,monostable,0.0
+gemini-2.5-flash-lite,Q25n,corporations profit too much,Business corporations make too much profit,1.0352144143708468,-0.26627033157754754,monostable,0.0
+gemini-2.5-flash-lite,Q50r,environmental laws cost jobs,Stricter environmental laws and regulations cost too many jobs and hurt the economy,2.615215657710916,-0.976325642430736,monostable,0.003
+gemini-2.5-flash-lite,Q50u,homosexuality accepted,Homosexuality should be accepted by society,62.72935809548336,0.9510253410859529,monostable,0.0
+gemini-2.5-flash-lite,Q50cc,allies interests,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",1.4047770045682626,0.4470597772262994,monostable,0.0
+gemini-2.5-flash-lite,Q50ee,active in world affairs,It's best for the future of our country to be active in world affairs,4.069878151020035,0.5313972999583743,metastable,0.0
+gemini-2.5-flash-lite,Q50hh,racial equality achieved,Our country has made the changes needed to give blacks equal rights with whites,2.6949272532663473,-0.7059114155108331,monostable,0.0
+gemini-2.5-flash-lite,Q51ll,economy favors powerful,The economic system in this country unfairly favors powerful interests,4.356809518137199,0.1058760420312877,metastable,0.002
+gemini-2.5-flash-lite,Q51nn,obstacles for women gone,The obstacles that once made it harder for women than men to get ahead are now largely gone,2.316135069731407,-1.232066121337311,monostable,0.002
+gpt-5-mini,Q25b,government regulation necessary,Government regulation of business is necessary to protect the public interest,4.115479773012597,0.6856918388817453,monostable,0.0
+gpt-5-mini,Q25c,poor have it easy,Poor people today have it easy because they can get government benefits without doing anything in return,3.19877795658334,-1.3498153142519131,monostable,0.006
+gpt-5-mini,Q25g,immigrants strengthen,Immigrants today strengthen our country because of their hard work and talents,0.17346313290055115,67.86297919647212,monostable,0.001
+gpt-5-mini,Q25k,hard work gets ahead,Most people who want to get ahead can make it if they're willing to work hard,2.3511137772295543,-0.28704587494643324,metastable,0.0
+gpt-5-mini,Q25n,corporations profit too much,Business corporations make too much profit,3.4682271671001352,0.0372852876601201,metastable,0.0
+gpt-5-mini,Q50r,environmental laws cost jobs,Stricter environmental laws and regulations cost too many jobs and hurt the economy,4.116237460429289,-1.0454733775019744,monostable,0.0
+gpt-5-mini,Q50u,homosexuality accepted,Homosexuality should be accepted by society,0.17757173380581123,65.87164429560006,monostable,0.0
+gpt-5-mini,Q50cc,allies interests,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",4.4656963239759415,0.6030809220387694,monostable,0.0
+gpt-5-mini,Q50ee,active in world affairs,It's best for the future of our country to be active in world affairs,7.6191943262185555,0.23969245634355124,metastable,0.0
+gpt-5-mini,Q50hh,racial equality achieved,Our country has made the changes needed to give blacks equal rights with whites,3.269626132658341,-1.3012477576746657,monostable,0.0
+gpt-5-mini,Q51ll,economy favors powerful,The economic system in this country unfairly favors powerful interests,3.791236418390355,0.7507079712651741,monostable,0.0
+gpt-5-mini,Q51nn,obstacles for women gone,The obstacles that once made it harder for women than men to get ahead are now largely gone,4.372049206622843,-0.7792932327797925,monostable,0.0

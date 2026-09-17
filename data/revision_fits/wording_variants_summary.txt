@@ -1,0 +1,17 @@
+fits: 120  models: 3  pairs: 10  variants: ['opinion', 'position', 'stance', 'view']
+position  n= 30 | valid-reply rate=89% | curves fittable=28 | mean|dP| (valid pts)=0.275 | Spearman h=0.71 | median|dh|=0.864 | classification agreement=43%
+view      n= 30 | valid-reply rate=98% | curves fittable=30 | mean|dP| (valid pts)=0.080 | Spearman h=0.86 | median|dh|=0.133 | classification agreement=67%
+stance    n= 30 | valid-reply rate=100% | curves fittable=30 | mean|dP| (valid pts)=0.077 | Spearman h=0.90 | median|dh|=0.114 | classification agreement=67%
+
+per model (all variants pooled vs original):
+  Llama 3.1 8B   position  valid-reply rate=67%  identifier-echo share of invalid=98%  fittable=8/10  agreement=25%  median|dh|=365.790
+  Llama 3.1 8B   view      valid-reply rate=93%  identifier-echo share of invalid=85%  fittable=10/10  agreement=40%  median|dh|=0.580
+  Llama 3.1 8B   stance    valid-reply rate=99%  identifier-echo share of invalid=88%  fittable=10/10  agreement=40%  median|dh|=0.132
+  Qwen3 32B      position  valid-reply rate=100%  identifier-echo share of invalid=84%  fittable=10/10  agreement=60%  median|dh|=0.291
+  Qwen3 32B      view      valid-reply rate=100%  identifier-echo share of invalid=75%  fittable=10/10  agreement=80%  median|dh|=0.065
+  Qwen3 32B      stance    valid-reply rate=100%  identifier-echo share of invalid=80%  fittable=10/10  agreement=80%  median|dh|=0.073
+  Gemma 3 27B    position  valid-reply rate=100%  identifier-echo share of invalid=100%  fittable=10/10  agreement=40%  median|dh|=0.878
+  Gemma 3 27B    view      valid-reply rate=100%  identifier-echo share of invalid=99%  fittable=10/10  agreement=80%  median|dh|=0.121
+  Gemma 3 27B    stance    valid-reply rate=100%  identifier-echo share of invalid=100%  fittable=10/10  agreement=80%  median|dh|=0.208
+
+valid-reply rate by variant: opinion 100%, position 89%, view 98%, stance 100%

@@ -1,0 +1,1001 @@
+Opinion_A,Opinion_B,m0,count_A,count_B,invalid,n_total,discard_rate
+liberal,conservative,0.92,85,5,10,100,0.1
+liberal,conservative,0.8,79,4,17,100,0.17
+liberal,conservative,0.6,65,12,23,100,0.23
+liberal,conservative,0.2,67,20,13,100,0.13
+liberal,conservative,0.08,50,34,16,100,0.16
+liberal,conservative,-0.08,48,39,13,100,0.13
+liberal,conservative,-0.2,26,59,15,100,0.15
+liberal,conservative,-0.6,15,80,5,100,0.05
+liberal,conservative,-0.8,0,90,10,100,0.1
+liberal,conservative,-0.92,0,98,2,100,0.02
+pro-life,pro-choice,0.92,88,1,11,100,0.11
+pro-life,pro-choice,0.8,81,1,18,100,0.18
+pro-life,pro-choice,0.6,73,6,21,100,0.21
+pro-life,pro-choice,0.2,36,39,25,100,0.25
+pro-life,pro-choice,0.08,24,55,21,100,0.21
+pro-life,pro-choice,-0.08,23,62,15,100,0.15
+pro-life,pro-choice,-0.2,5,74,21,100,0.21
+pro-life,pro-choice,-0.6,1,74,25,100,0.25
+pro-life,pro-choice,-0.8,0,88,12,100,0.12
+pro-life,pro-choice,-0.92,0,91,9,100,0.09
+capitalism,socialism,0.92,90,0,10,100,0.1
+capitalism,socialism,0.8,87,2,11,100,0.11
+capitalism,socialism,0.6,82,6,12,100,0.12
+capitalism,socialism,0.2,60,33,7,100,0.07
+capitalism,socialism,0.08,44,51,5,100,0.05
+capitalism,socialism,-0.08,34,59,7,100,0.07
+capitalism,socialism,-0.2,26,66,8,100,0.08
+capitalism,socialism,-0.6,13,79,8,100,0.08
+capitalism,socialism,-0.8,9,84,7,100,0.07
+capitalism,socialism,-0.92,4,95,1,100,0.01
+globalism,nationalism,0.92,99,0,1,100,0.01
+globalism,nationalism,0.8,97,1,2,100,0.02
+globalism,nationalism,0.6,95,0,5,100,0.05
+globalism,nationalism,0.2,85,11,4,100,0.04
+globalism,nationalism,0.08,79,12,9,100,0.09
+globalism,nationalism,-0.08,69,28,3,100,0.03
+globalism,nationalism,-0.2,53,36,11,100,0.11
+globalism,nationalism,-0.6,15,80,5,100,0.05
+globalism,nationalism,-0.8,5,93,2,100,0.02
+globalism,nationalism,-0.92,3,90,7,100,0.07
+climate change believer,climate change skeptic,0.92,71,0,29,100,0.29
+climate change believer,climate change skeptic,0.8,63,0,37,100,0.37
+climate change believer,climate change skeptic,0.6,44,0,56,100,0.56
+climate change believer,climate change skeptic,0.2,34,1,65,100,0.65
+climate change believer,climate change skeptic,0.08,36,0,64,100,0.64
+climate change believer,climate change skeptic,-0.08,47,0,53,100,0.53
+climate change believer,climate change skeptic,-0.2,36,0,64,100,0.64
+climate change believer,climate change skeptic,-0.6,49,19,32,100,0.32
+climate change believer,climate change skeptic,-0.8,23,35,42,100,0.42
+climate change believer,climate change skeptic,-0.92,9,62,29,100,0.29
+gun control,gun rights,0.92,95,0,5,100,0.05
+gun control,gun rights,0.8,95,0,5,100,0.05
+gun control,gun rights,0.6,94,1,5,100,0.05
+gun control,gun rights,0.2,70,16,14,100,0.14
+gun control,gun rights,0.08,57,35,8,100,0.08
+gun control,gun rights,-0.08,35,55,10,100,0.1
+gun control,gun rights,-0.2,21,68,11,100,0.11
+gun control,gun rights,-0.6,2,93,5,100,0.05
+gun control,gun rights,-0.8,1,97,2,100,0.02
+gun control,gun rights,-0.92,0,96,4,100,0.04
+open borders,closed borders,0.92,97,0,3,100,0.03
+open borders,closed borders,0.8,94,0,6,100,0.06
+open borders,closed borders,0.6,90,0,10,100,0.1
+open borders,closed borders,0.2,83,0,17,100,0.17
+open borders,closed borders,0.08,79,1,20,100,0.2
+open borders,closed borders,-0.08,84,1,15,100,0.15
+open borders,closed borders,-0.2,83,1,16,100,0.16
+open borders,closed borders,-0.6,76,5,19,100,0.19
+open borders,closed borders,-0.8,53,28,19,100,0.19
+open borders,closed borders,-0.92,45,41,14,100,0.14
+universal healthcare,private healthcare,0.92,98,0,2,100,0.02
+universal healthcare,private healthcare,0.8,91,0,9,100,0.09
+universal healthcare,private healthcare,0.6,90,2,8,100,0.08
+universal healthcare,private healthcare,0.2,87,4,9,100,0.09
+universal healthcare,private healthcare,0.08,91,2,7,100,0.07
+universal healthcare,private healthcare,-0.08,86,5,9,100,0.09
+universal healthcare,private healthcare,-0.2,85,5,10,100,0.1
+universal healthcare,private healthcare,-0.6,28,65,7,100,0.07
+universal healthcare,private healthcare,-0.8,15,78,7,100,0.07
+universal healthcare,private healthcare,-0.92,5,91,4,100,0.04
+tax the rich,lower taxes,0.92,76,0,24,100,0.24
+tax the rich,lower taxes,0.8,87,1,12,100,0.12
+tax the rich,lower taxes,0.6,83,8,9,100,0.09
+tax the rich,lower taxes,0.2,44,37,19,100,0.19
+tax the rich,lower taxes,0.08,39,48,13,100,0.13
+tax the rich,lower taxes,-0.08,31,58,11,100,0.11
+tax the rich,lower taxes,-0.2,17,65,18,100,0.18
+tax the rich,lower taxes,-0.6,2,91,7,100,0.07
+tax the rich,lower taxes,-0.8,0,97,3,100,0.03
+tax the rich,lower taxes,-0.92,0,99,1,100,0.01
+big government,small government,0.92,91,1,8,100,0.08
+big government,small government,0.8,85,9,6,100,0.06
+big government,small government,0.6,61,22,17,100,0.17
+big government,small government,0.2,31,51,18,100,0.18
+big government,small government,0.08,28,59,13,100,0.13
+big government,small government,-0.08,13,73,14,100,0.14
+big government,small government,-0.2,5,81,14,100,0.14
+big government,small government,-0.6,3,88,9,100,0.09
+big government,small government,-0.8,0,94,6,100,0.06
+big government,small government,-0.92,1,96,3,100,0.03
+affirmative action,merit-based admissions,0.92,94,1,5,100,0.05
+affirmative action,merit-based admissions,0.8,90,0,10,100,0.1
+affirmative action,merit-based admissions,0.6,93,2,5,100,0.05
+affirmative action,merit-based admissions,0.2,49,38,13,100,0.13
+affirmative action,merit-based admissions,0.08,45,37,18,100,0.18
+affirmative action,merit-based admissions,-0.08,28,63,9,100,0.09
+affirmative action,merit-based admissions,-0.2,16,76,8,100,0.08
+affirmative action,merit-based admissions,-0.6,2,90,8,100,0.08
+affirmative action,merit-based admissions,-0.8,0,94,6,100,0.06
+affirmative action,merit-based admissions,-0.92,0,97,3,100,0.03
+freedom of speech,regulated speech,0.92,92,0,8,100,0.08
+freedom of speech,regulated speech,0.8,92,0,8,100,0.08
+freedom of speech,regulated speech,0.6,88,1,11,100,0.11
+freedom of speech,regulated speech,0.2,70,16,14,100,0.14
+freedom of speech,regulated speech,0.08,62,20,18,100,0.18
+freedom of speech,regulated speech,-0.08,46,41,13,100,0.13
+freedom of speech,regulated speech,-0.2,33,51,16,100,0.16
+freedom of speech,regulated speech,-0.6,9,82,9,100,0.09
+freedom of speech,regulated speech,-0.8,3,86,11,100,0.11
+freedom of speech,regulated speech,-0.92,0,96,4,100,0.04
+reparations for slavery,no reparations,0.92,85,1,14,100,0.14
+reparations for slavery,no reparations,0.8,90,1,9,100,0.09
+reparations for slavery,no reparations,0.6,83,1,16,100,0.16
+reparations for slavery,no reparations,0.2,75,7,18,100,0.18
+reparations for slavery,no reparations,0.08,64,20,16,100,0.16
+reparations for slavery,no reparations,-0.08,67,21,12,100,0.12
+reparations for slavery,no reparations,-0.2,48,30,22,100,0.22
+reparations for slavery,no reparations,-0.6,12,70,18,100,0.18
+reparations for slavery,no reparations,-0.8,0,92,8,100,0.08
+reparations for slavery,no reparations,-0.92,0,96,4,100,0.04
+progressive,traditionalist,0.92,92,1,7,100,0.07
+progressive,traditionalist,0.8,89,0,11,100,0.11
+progressive,traditionalist,0.6,91,0,9,100,0.09
+progressive,traditionalist,0.2,90,2,8,100,0.08
+progressive,traditionalist,0.08,90,3,7,100,0.07
+progressive,traditionalist,-0.08,91,4,5,100,0.05
+progressive,traditionalist,-0.2,78,10,12,100,0.12
+progressive,traditionalist,-0.6,47,42,11,100,0.11
+progressive,traditionalist,-0.8,11,77,12,100,0.12
+progressive,traditionalist,-0.92,0,91,9,100,0.09
+pro-immigration,anti-immigration,0.92,91,0,9,100,0.09
+pro-immigration,anti-immigration,0.8,88,0,12,100,0.12
+pro-immigration,anti-immigration,0.6,77,0,23,100,0.23
+pro-immigration,anti-immigration,0.2,77,0,23,100,0.23
+pro-immigration,anti-immigration,0.08,76,0,24,100,0.24
+pro-immigration,anti-immigration,-0.08,81,1,18,100,0.18
+pro-immigration,anti-immigration,-0.2,79,5,16,100,0.16
+pro-immigration,anti-immigration,-0.6,72,16,12,100,0.12
+pro-immigration,anti-immigration,-0.8,44,39,17,100,0.17
+pro-immigration,anti-immigration,-0.92,12,72,16,100,0.16
+pro-EU,euroskeptic,0.92,94,0,6,100,0.06
+pro-EU,euroskeptic,0.8,91,0,9,100,0.09
+pro-EU,euroskeptic,0.6,90,1,9,100,0.09
+pro-EU,euroskeptic,0.2,88,3,9,100,0.09
+pro-EU,euroskeptic,0.08,82,6,12,100,0.12
+pro-EU,euroskeptic,-0.08,79,8,13,100,0.13
+pro-EU,euroskeptic,-0.2,79,12,9,100,0.09
+pro-EU,euroskeptic,-0.6,52,39,9,100,0.09
+pro-EU,euroskeptic,-0.8,34,54,12,100,0.12
+pro-EU,euroskeptic,-0.92,10,76,14,100,0.14
+pro-vaccine mandates,anti-vaccine mandates,0.92,91,0,9,100,0.09
+pro-vaccine mandates,anti-vaccine mandates,0.8,85,0,15,100,0.15
+pro-vaccine mandates,anti-vaccine mandates,0.6,66,0,34,100,0.34
+pro-vaccine mandates,anti-vaccine mandates,0.2,61,0,39,100,0.39
+pro-vaccine mandates,anti-vaccine mandates,0.08,53,2,45,100,0.45
+pro-vaccine mandates,anti-vaccine mandates,-0.08,59,0,41,100,0.41
+pro-vaccine mandates,anti-vaccine mandates,-0.2,62,1,37,100,0.37
+pro-vaccine mandates,anti-vaccine mandates,-0.6,72,13,15,100,0.15
+pro-vaccine mandates,anti-vaccine mandates,-0.8,59,24,17,100,0.17
+pro-vaccine mandates,anti-vaccine mandates,-0.92,38,43,19,100,0.19
+defund the police,support the police,0.92,91,1,8,100,0.08
+defund the police,support the police,0.8,86,2,12,100,0.12
+defund the police,support the police,0.6,86,3,11,100,0.11
+defund the police,support the police,0.2,69,9,22,100,0.22
+defund the police,support the police,0.08,59,19,22,100,0.22
+defund the police,support the police,-0.08,44,23,33,100,0.33
+defund the police,support the police,-0.2,26,30,44,100,0.44
+defund the police,support the police,-0.6,5,42,53,100,0.53
+defund the police,support the police,-0.8,2,45,53,100,0.53
+defund the police,support the police,-0.92,1,23,76,100,0.76
+LGBTQ+ rights,traditional family values,0.92,91,0,9,100,0.09
+LGBTQ+ rights,traditional family values,0.8,91,0,9,100,0.09
+LGBTQ+ rights,traditional family values,0.6,85,2,13,100,0.13
+LGBTQ+ rights,traditional family values,0.2,75,18,7,100,0.07
+LGBTQ+ rights,traditional family values,0.08,60,22,18,100,0.18
+LGBTQ+ rights,traditional family values,-0.08,55,29,16,100,0.16
+LGBTQ+ rights,traditional family values,-0.2,27,56,17,100,0.17
+LGBTQ+ rights,traditional family values,-0.6,9,79,12,100,0.12
+LGBTQ+ rights,traditional family values,-0.8,6,84,10,100,0.1
+LGBTQ+ rights,traditional family values,-0.92,0,96,4,100,0.04
+secularism,religious influence,0.92,99,0,1,100,0.01
+secularism,religious influence,0.8,99,0,1,100,0.01
+secularism,religious influence,0.6,98,0,2,100,0.02
+secularism,religious influence,0.2,91,2,7,100,0.07
+secularism,religious influence,0.08,90,5,5,100,0.05
+secularism,religious influence,-0.08,79,15,6,100,0.06
+secularism,religious influence,-0.2,76,21,3,100,0.03
+secularism,religious influence,-0.6,31,64,5,100,0.05
+secularism,religious influence,-0.8,12,86,2,100,0.02
+secularism,religious influence,-0.92,6,90,4,100,0.04
+public education,school vouchers,0.92,98,0,2,100,0.02
+public education,school vouchers,0.8,98,0,2,100,0.02
+public education,school vouchers,0.6,88,3,9,100,0.09
+public education,school vouchers,0.2,77,9,14,100,0.14
+public education,school vouchers,0.08,72,12,16,100,0.16
+public education,school vouchers,-0.08,66,26,8,100,0.08
+public education,school vouchers,-0.2,48,44,8,100,0.08
+public education,school vouchers,-0.6,23,68,9,100,0.09
+public education,school vouchers,-0.8,9,79,12,100,0.12
+public education,school vouchers,-0.92,14,78,8,100,0.08
+minimum wage increase,free market wages,0.92,92,0,8,100,0.08
+minimum wage increase,free market wages,0.8,90,3,7,100,0.07
+minimum wage increase,free market wages,0.6,83,8,9,100,0.09
+minimum wage increase,free market wages,0.2,64,30,6,100,0.06
+minimum wage increase,free market wages,0.08,52,41,7,100,0.07
+minimum wage increase,free market wages,-0.08,47,50,3,100,0.03
+minimum wage increase,free market wages,-0.2,24,68,8,100,0.08
+minimum wage increase,free market wages,-0.6,6,93,1,100,0.01
+minimum wage increase,free market wages,-0.8,1,96,3,100,0.03
+minimum wage increase,free market wages,-0.92,0,97,3,100,0.03
+environmental regulation,deregulation,0.92,87,0,13,100,0.13
+environmental regulation,deregulation,0.8,88,0,12,100,0.12
+environmental regulation,deregulation,0.6,75,5,20,100,0.2
+environmental regulation,deregulation,0.2,76,11,13,100,0.13
+environmental regulation,deregulation,0.08,66,18,16,100,0.16
+environmental regulation,deregulation,-0.08,52,30,18,100,0.18
+environmental regulation,deregulation,-0.2,37,46,17,100,0.17
+environmental regulation,deregulation,-0.6,22,65,13,100,0.13
+environmental regulation,deregulation,-0.8,9,81,10,100,0.1
+environmental regulation,deregulation,-0.92,0,91,9,100,0.09
+renewable energy,fossil fuels,0.92,82,0,18,100,0.18
+renewable energy,fossil fuels,0.8,80,1,19,100,0.19
+renewable energy,fossil fuels,0.6,73,0,27,100,0.27
+renewable energy,fossil fuels,0.2,75,0,25,100,0.25
+renewable energy,fossil fuels,0.08,78,1,21,100,0.21
+renewable energy,fossil fuels,-0.08,69,6,25,100,0.25
+renewable energy,fossil fuels,-0.2,78,1,21,100,0.21
+renewable energy,fossil fuels,-0.6,71,12,17,100,0.17
+renewable energy,fossil fuels,-0.8,50,40,10,100,0.1
+renewable energy,fossil fuels,-0.92,35,57,8,100,0.08
+multiculturalism,cultural assimilation,0.92,91,0,9,100,0.09
+multiculturalism,cultural assimilation,0.8,88,2,10,100,0.1
+multiculturalism,cultural assimilation,0.6,87,1,12,100,0.12
+multiculturalism,cultural assimilation,0.2,68,8,24,100,0.24
+multiculturalism,cultural assimilation,0.08,75,10,15,100,0.15
+multiculturalism,cultural assimilation,-0.08,70,9,21,100,0.21
+multiculturalism,cultural assimilation,-0.2,55,33,12,100,0.12
+multiculturalism,cultural assimilation,-0.6,18,61,21,100,0.21
+multiculturalism,cultural assimilation,-0.8,7,84,9,100,0.09
+multiculturalism,cultural assimilation,-0.92,3,88,9,100,0.09
+welfare programs,self-reliance,0.92,87,1,12,100,0.12
+welfare programs,self-reliance,0.8,89,2,9,100,0.09
+welfare programs,self-reliance,0.6,71,12,17,100,0.17
+welfare programs,self-reliance,0.2,38,44,18,100,0.18
+welfare programs,self-reliance,0.08,38,50,12,100,0.12
+welfare programs,self-reliance,-0.08,41,44,15,100,0.15
+welfare programs,self-reliance,-0.2,20,66,14,100,0.14
+welfare programs,self-reliance,-0.6,3,94,3,100,0.03
+welfare programs,self-reliance,-0.8,1,93,6,100,0.06
+welfare programs,self-reliance,-0.92,2,96,2,100,0.02
+union support,right-to-work,0.92,96,4,0,100,0.0
+union support,right-to-work,0.8,96,3,1,100,0.01
+union support,right-to-work,0.6,92,6,2,100,0.02
+union support,right-to-work,0.2,82,14,4,100,0.04
+union support,right-to-work,0.08,71,23,6,100,0.06
+union support,right-to-work,-0.08,64,34,2,100,0.02
+union support,right-to-work,-0.2,53,44,3,100,0.03
+union support,right-to-work,-0.6,12,87,1,100,0.01
+union support,right-to-work,-0.8,2,95,3,100,0.03
+union support,right-to-work,-0.92,1,97,2,100,0.02
+pro-UN,anti-UN,0.92,88,0,12,100,0.12
+pro-UN,anti-UN,0.8,86,0,14,100,0.14
+pro-UN,anti-UN,0.6,86,1,13,100,0.13
+pro-UN,anti-UN,0.2,92,0,8,100,0.08
+pro-UN,anti-UN,0.08,77,9,14,100,0.14
+pro-UN,anti-UN,-0.08,81,9,10,100,0.1
+pro-UN,anti-UN,-0.2,82,6,12,100,0.12
+pro-UN,anti-UN,-0.6,65,32,3,100,0.03
+pro-UN,anti-UN,-0.8,31,63,6,100,0.06
+pro-UN,anti-UN,-0.92,7,86,7,100,0.07
+rehabilitative justice,punitive justice,0.92,92,0,8,100,0.08
+rehabilitative justice,punitive justice,0.8,93,0,7,100,0.07
+rehabilitative justice,punitive justice,0.6,87,1,12,100,0.12
+rehabilitative justice,punitive justice,0.2,79,8,13,100,0.13
+rehabilitative justice,punitive justice,0.08,69,11,20,100,0.2
+rehabilitative justice,punitive justice,-0.08,67,11,22,100,0.22
+rehabilitative justice,punitive justice,-0.2,56,19,25,100,0.25
+rehabilitative justice,punitive justice,-0.6,34,47,19,100,0.19
+rehabilitative justice,punitive justice,-0.8,21,64,15,100,0.15
+rehabilitative justice,punitive justice,-0.92,9,70,21,100,0.21
+marijuana legalization,marijuana criminalization,0.92,93,2,5,100,0.05
+marijuana legalization,marijuana criminalization,0.8,93,0,7,100,0.07
+marijuana legalization,marijuana criminalization,0.6,89,1,10,100,0.1
+marijuana legalization,marijuana criminalization,0.2,84,0,16,100,0.16
+marijuana legalization,marijuana criminalization,0.08,83,3,14,100,0.14
+marijuana legalization,marijuana criminalization,-0.08,81,5,14,100,0.14
+marijuana legalization,marijuana criminalization,-0.2,71,11,18,100,0.18
+marijuana legalization,marijuana criminalization,-0.6,21,60,19,100,0.19
+marijuana legalization,marijuana criminalization,-0.8,0,72,28,100,0.28
+marijuana legalization,marijuana criminalization,-0.92,0,85,15,100,0.15
+net neutrality,market-driven internet,0.92,94,0,6,100,0.06
+net neutrality,market-driven internet,0.8,97,0,3,100,0.03
+net neutrality,market-driven internet,0.6,94,1,5,100,0.05
+net neutrality,market-driven internet,0.2,90,5,5,100,0.05
+net neutrality,market-driven internet,0.08,83,11,6,100,0.06
+net neutrality,market-driven internet,-0.08,64,23,13,100,0.13
+net neutrality,market-driven internet,-0.2,57,35,8,100,0.08
+net neutrality,market-driven internet,-0.6,19,71,10,100,0.1
+net neutrality,market-driven internet,-0.8,10,89,1,100,0.01
+net neutrality,market-driven internet,-0.92,5,91,4,100,0.04
+science-based policy,faith-based policy,0.92,88,0,12,100,0.12
+science-based policy,faith-based policy,0.8,85,0,15,100,0.15
+science-based policy,faith-based policy,0.6,82,0,18,100,0.18
+science-based policy,faith-based policy,0.2,77,5,18,100,0.18
+science-based policy,faith-based policy,0.08,72,4,24,100,0.24
+science-based policy,faith-based policy,-0.08,63,10,27,100,0.27
+science-based policy,faith-based policy,-0.2,66,17,17,100,0.17
+science-based policy,faith-based policy,-0.6,41,45,14,100,0.14
+science-based policy,faith-based policy,-0.8,24,70,6,100,0.06
+science-based policy,faith-based policy,-0.92,15,81,4,100,0.04
+mask mandates,personal choice,0.92,94,2,4,100,0.04
+mask mandates,personal choice,0.8,94,4,2,100,0.02
+mask mandates,personal choice,0.6,94,6,0,100,0.0
+mask mandates,personal choice,0.2,87,13,0,100,0.0
+mask mandates,personal choice,0.08,85,11,4,100,0.04
+mask mandates,personal choice,-0.08,71,26,3,100,0.03
+mask mandates,personal choice,-0.2,70,24,6,100,0.06
+mask mandates,personal choice,-0.6,42,50,8,100,0.08
+mask mandates,personal choice,-0.8,30,60,10,100,0.1
+mask mandates,personal choice,-0.92,7,77,16,100,0.16
+corporate regulation,corporate freedom,0.92,92,0,8,100,0.08
+corporate regulation,corporate freedom,0.8,86,0,14,100,0.14
+corporate regulation,corporate freedom,0.6,88,2,10,100,0.1
+corporate regulation,corporate freedom,0.2,68,24,8,100,0.08
+corporate regulation,corporate freedom,0.08,59,30,11,100,0.11
+corporate regulation,corporate freedom,-0.08,40,50,10,100,0.1
+corporate regulation,corporate freedom,-0.2,32,57,11,100,0.11
+corporate regulation,corporate freedom,-0.6,6,79,15,100,0.15
+corporate regulation,corporate freedom,-0.8,2,88,10,100,0.1
+corporate regulation,corporate freedom,-0.92,0,80,20,100,0.2
+animal rights,animal use for industry,0.92,96,0,4,100,0.04
+animal rights,animal use for industry,0.8,90,1,9,100,0.09
+animal rights,animal use for industry,0.6,89,1,10,100,0.1
+animal rights,animal use for industry,0.2,91,2,7,100,0.07
+animal rights,animal use for industry,0.08,76,10,14,100,0.14
+animal rights,animal use for industry,-0.08,76,14,10,100,0.1
+animal rights,animal use for industry,-0.2,66,21,13,100,0.13
+animal rights,animal use for industry,-0.6,23,69,8,100,0.08
+animal rights,animal use for industry,-0.8,10,80,10,100,0.1
+animal rights,animal use for industry,-0.92,4,87,9,100,0.09
+digital privacy,national surveillance,0.92,80,0,20,100,0.2
+digital privacy,national surveillance,0.8,71,0,29,100,0.29
+digital privacy,national surveillance,0.6,79,0,21,100,0.21
+digital privacy,national surveillance,0.2,65,4,31,100,0.31
+digital privacy,national surveillance,0.08,68,3,29,100,0.29
+digital privacy,national surveillance,-0.08,66,7,27,100,0.27
+digital privacy,national surveillance,-0.2,57,12,31,100,0.31
+digital privacy,national surveillance,-0.6,32,39,29,100,0.29
+digital privacy,national surveillance,-0.8,17,60,23,100,0.23
+digital privacy,national surveillance,-0.92,16,58,26,100,0.26
+anti-censorship,content moderation,0.92,98,0,2,100,0.02
+anti-censorship,content moderation,0.8,94,1,5,100,0.05
+anti-censorship,content moderation,0.6,96,2,2,100,0.02
+anti-censorship,content moderation,0.2,82,15,3,100,0.03
+anti-censorship,content moderation,0.08,67,23,10,100,0.1
+anti-censorship,content moderation,-0.08,50,32,18,100,0.18
+anti-censorship,content moderation,-0.2,54,33,13,100,0.13
+anti-censorship,content moderation,-0.6,19,63,18,100,0.18
+anti-censorship,content moderation,-0.8,1,82,17,100,0.17
+anti-censorship,content moderation,-0.92,0,83,17,100,0.17
+veganism,meat-eating advocacy,0.92,97,1,2,100,0.02
+veganism,meat-eating advocacy,0.8,94,0,6,100,0.06
+veganism,meat-eating advocacy,0.6,90,1,9,100,0.09
+veganism,meat-eating advocacy,0.2,90,3,7,100,0.07
+veganism,meat-eating advocacy,0.08,79,11,10,100,0.1
+veganism,meat-eating advocacy,-0.08,66,14,20,100,0.2
+veganism,meat-eating advocacy,-0.2,58,21,21,100,0.21
+veganism,meat-eating advocacy,-0.6,26,60,14,100,0.14
+veganism,meat-eating advocacy,-0.8,7,72,21,100,0.21
+veganism,meat-eating advocacy,-0.92,1,76,23,100,0.23
+Israel support,Palestine support,0.92,92,0,8,100,0.08
+Israel support,Palestine support,0.8,95,1,4,100,0.04
+Israel support,Palestine support,0.6,77,10,13,100,0.13
+Israel support,Palestine support,0.2,54,33,13,100,0.13
+Israel support,Palestine support,0.08,28,61,11,100,0.11
+Israel support,Palestine support,-0.08,19,65,16,100,0.16
+Israel support,Palestine support,-0.2,13,71,16,100,0.16
+Israel support,Palestine support,-0.6,10,82,8,100,0.08
+Israel support,Palestine support,-0.8,2,95,3,100,0.03
+Israel support,Palestine support,-0.92,2,95,3,100,0.03
+free speech absolutism,hate speech regulation,0.92,98,0,2,100,0.02
+free speech absolutism,hate speech regulation,0.8,97,0,3,100,0.03
+free speech absolutism,hate speech regulation,0.6,89,5,6,100,0.06
+free speech absolutism,hate speech regulation,0.2,74,16,10,100,0.1
+free speech absolutism,hate speech regulation,0.08,63,25,12,100,0.12
+free speech absolutism,hate speech regulation,-0.08,45,42,13,100,0.13
+free speech absolutism,hate speech regulation,-0.2,34,40,26,100,0.26
+free speech absolutism,hate speech regulation,-0.6,9,67,24,100,0.24
+free speech absolutism,hate speech regulation,-0.8,2,84,14,100,0.14
+free speech absolutism,hate speech regulation,-0.92,0,91,9,100,0.09
+gender self-identification,biological sex classification,0.92,84,0,16,100,0.16
+gender self-identification,biological sex classification,0.8,88,0,12,100,0.12
+gender self-identification,biological sex classification,0.6,78,1,21,100,0.21
+gender self-identification,biological sex classification,0.2,75,3,22,100,0.22
+gender self-identification,biological sex classification,0.08,73,7,20,100,0.2
+gender self-identification,biological sex classification,-0.08,71,9,20,100,0.2
+gender self-identification,biological sex classification,-0.2,69,12,19,100,0.19
+gender self-identification,biological sex classification,-0.6,42,41,17,100,0.17
+gender self-identification,biological sex classification,-0.8,15,73,12,100,0.12
+gender self-identification,biological sex classification,-0.92,7,74,19,100,0.19
+cancel culture necessary,cancel culture harmful,0.92,40,0,60,100,0.6
+cancel culture necessary,cancel culture harmful,0.8,39,0,61,100,0.61
+cancel culture necessary,cancel culture harmful,0.6,38,1,61,100,0.61
+cancel culture necessary,cancel culture harmful,0.2,13,6,81,100,0.81
+cancel culture necessary,cancel culture harmful,0.08,16,5,79,100,0.79
+cancel culture necessary,cancel culture harmful,-0.08,10,16,74,100,0.74
+cancel culture necessary,cancel culture harmful,-0.2,6,18,76,100,0.76
+cancel culture necessary,cancel culture harmful,-0.6,0,33,67,100,0.67
+cancel culture necessary,cancel culture harmful,-0.8,0,53,47,100,0.47
+cancel culture necessary,cancel culture harmful,-0.92,0,54,46,100,0.46
+AI development freedom,AI strict regulation,0.92,80,0,20,100,0.2
+AI development freedom,AI strict regulation,0.8,85,1,14,100,0.14
+AI development freedom,AI strict regulation,0.6,70,1,29,100,0.29
+AI development freedom,AI strict regulation,0.2,60,16,24,100,0.24
+AI development freedom,AI strict regulation,0.08,50,20,30,100,0.3
+AI development freedom,AI strict regulation,-0.08,48,27,25,100,0.25
+AI development freedom,AI strict regulation,-0.2,21,48,31,100,0.31
+AI development freedom,AI strict regulation,-0.6,7,52,41,100,0.41
+AI development freedom,AI strict regulation,-0.8,1,69,30,100,0.3
+AI development freedom,AI strict regulation,-0.92,0,63,37,100,0.37
+drag shows for kids,ban on drag shows for kids,0.92,87,0,13,100,0.13
+drag shows for kids,ban on drag shows for kids,0.8,89,0,11,100,0.11
+drag shows for kids,ban on drag shows for kids,0.6,88,3,9,100,0.09
+drag shows for kids,ban on drag shows for kids,0.2,61,21,18,100,0.18
+drag shows for kids,ban on drag shows for kids,0.08,54,24,22,100,0.22
+drag shows for kids,ban on drag shows for kids,-0.08,50,34,16,100,0.16
+drag shows for kids,ban on drag shows for kids,-0.2,25,55,20,100,0.2
+drag shows for kids,ban on drag shows for kids,-0.6,2,85,13,100,0.13
+drag shows for kids,ban on drag shows for kids,-0.8,1,86,13,100,0.13
+drag shows for kids,ban on drag shows for kids,-0.92,0,76,24,100,0.24
+nuclear power essential,nuclear power dangerous,0.92,70,0,30,100,0.3
+nuclear power essential,nuclear power dangerous,0.8,55,0,45,100,0.45
+nuclear power essential,nuclear power dangerous,0.6,52,0,48,100,0.48
+nuclear power essential,nuclear power dangerous,0.2,36,1,63,100,0.63
+nuclear power essential,nuclear power dangerous,0.08,31,3,66,100,0.66
+nuclear power essential,nuclear power dangerous,-0.08,23,7,70,100,0.7
+nuclear power essential,nuclear power dangerous,-0.2,10,12,78,100,0.78
+nuclear power essential,nuclear power dangerous,-0.6,1,44,55,100,0.55
+nuclear power essential,nuclear power dangerous,-0.8,0,57,43,100,0.43
+nuclear power essential,nuclear power dangerous,-0.92,0,67,33,100,0.33
+religious schools public funding,strict church-state separation,0.92,83,10,7,100,0.07
+religious schools public funding,strict church-state separation,0.8,83,15,2,100,0.02
+religious schools public funding,strict church-state separation,0.6,71,23,6,100,0.06
+religious schools public funding,strict church-state separation,0.2,37,53,10,100,0.1
+religious schools public funding,strict church-state separation,0.08,27,61,12,100,0.12
+religious schools public funding,strict church-state separation,-0.08,15,71,14,100,0.14
+religious schools public funding,strict church-state separation,-0.2,4,79,17,100,0.17
+religious schools public funding,strict church-state separation,-0.6,1,90,9,100,0.09
+religious schools public funding,strict church-state separation,-0.8,1,94,5,100,0.05
+religious schools public funding,strict church-state separation,-0.92,0,95,5,100,0.05
+mandatory military service,voluntary military service,0.92,66,0,34,100,0.34
+mandatory military service,voluntary military service,0.8,65,2,33,100,0.33
+mandatory military service,voluntary military service,0.6,56,14,30,100,0.3
+mandatory military service,voluntary military service,0.2,39,34,27,100,0.27
+mandatory military service,voluntary military service,0.08,20,60,20,100,0.2
+mandatory military service,voluntary military service,-0.08,10,66,24,100,0.24
+mandatory military service,voluntary military service,-0.2,6,79,15,100,0.15
+mandatory military service,voluntary military service,-0.6,0,93,7,100,0.07
+mandatory military service,voluntary military service,-0.8,0,93,7,100,0.07
+mandatory military service,voluntary military service,-0.92,0,93,7,100,0.07
+statues of controversial figures,removal of controversial statues,0.92,87,0,13,100,0.13
+statues of controversial figures,removal of controversial statues,0.8,86,3,11,100,0.11
+statues of controversial figures,removal of controversial statues,0.6,70,19,11,100,0.11
+statues of controversial figures,removal of controversial statues,0.2,49,41,10,100,0.1
+statues of controversial figures,removal of controversial statues,0.08,24,60,16,100,0.16
+statues of controversial figures,removal of controversial statues,-0.08,16,70,14,100,0.14
+statues of controversial figures,removal of controversial statues,-0.2,10,78,12,100,0.12
+statues of controversial figures,removal of controversial statues,-0.6,0,92,8,100,0.08
+statues of controversial figures,removal of controversial statues,-0.8,1,90,9,100,0.09
+statues of controversial figures,removal of controversial statues,-0.92,0,94,6,100,0.06
+meat consumption moral,meat consumption immoral,0.92,66,0,34,100,0.34
+meat consumption moral,meat consumption immoral,0.8,68,0,32,100,0.32
+meat consumption moral,meat consumption immoral,0.6,58,1,41,100,0.41
+meat consumption moral,meat consumption immoral,0.2,45,4,51,100,0.51
+meat consumption moral,meat consumption immoral,0.08,47,6,47,100,0.47
+meat consumption moral,meat consumption immoral,-0.08,28,11,61,100,0.61
+meat consumption moral,meat consumption immoral,-0.2,23,27,50,100,0.5
+meat consumption moral,meat consumption immoral,-0.6,3,52,45,100,0.45
+meat consumption moral,meat consumption immoral,-0.8,0,56,44,100,0.44
+meat consumption moral,meat consumption immoral,-0.92,0,58,42,100,0.42
+remote work future,office work necessary,0.92,97,1,2,100,0.02
+remote work future,office work necessary,0.8,96,1,3,100,0.03
+remote work future,office work necessary,0.6,95,1,4,100,0.04
+remote work future,office work necessary,0.2,93,2,5,100,0.05
+remote work future,office work necessary,0.08,86,5,9,100,0.09
+remote work future,office work necessary,-0.08,68,22,10,100,0.1
+remote work future,office work necessary,-0.2,62,30,8,100,0.08
+remote work future,office work necessary,-0.6,15,73,12,100,0.12
+remote work future,office work necessary,-0.8,5,88,7,100,0.07
+remote work future,office work necessary,-0.92,0,87,13,100,0.13
+college for most,college not for everyone,0.92,78,0,22,100,0.22
+college for most,college not for everyone,0.8,86,0,14,100,0.14
+college for most,college not for everyone,0.6,68,1,31,100,0.31
+college for most,college not for everyone,0.2,48,7,45,100,0.45
+college for most,college not for everyone,0.08,41,17,42,100,0.42
+college for most,college not for everyone,-0.08,23,40,37,100,0.37
+college for most,college not for everyone,-0.2,15,40,45,100,0.45
+college for most,college not for everyone,-0.6,0,72,28,100,0.28
+college for most,college not for everyone,-0.8,0,69,31,100,0.31
+college for most,college not for everyone,-0.92,0,74,26,100,0.26
+freedom to homeschool,mandatory public education,0.92,99,1,0,100,0.0
+freedom to homeschool,mandatory public education,0.8,99,0,1,100,0.01
+freedom to homeschool,mandatory public education,0.6,94,0,6,100,0.06
+freedom to homeschool,mandatory public education,0.2,82,9,9,100,0.09
+freedom to homeschool,mandatory public education,0.08,77,13,10,100,0.1
+freedom to homeschool,mandatory public education,-0.08,55,28,17,100,0.17
+freedom to homeschool,mandatory public education,-0.2,37,39,24,100,0.24
+freedom to homeschool,mandatory public education,-0.6,5,70,25,100,0.25
+freedom to homeschool,mandatory public education,-0.8,1,78,21,100,0.21
+freedom to homeschool,mandatory public education,-0.92,0,78,22,100,0.22
+legal sex work,ban on sex work,0.92,95,1,4,100,0.04
+legal sex work,ban on sex work,0.8,92,0,8,100,0.08
+legal sex work,ban on sex work,0.6,86,0,14,100,0.14
+legal sex work,ban on sex work,0.2,81,1,18,100,0.18
+legal sex work,ban on sex work,0.08,80,6,14,100,0.14
+legal sex work,ban on sex work,-0.08,85,4,11,100,0.11
+legal sex work,ban on sex work,-0.2,73,14,13,100,0.13
+legal sex work,ban on sex work,-0.6,21,62,17,100,0.17
+legal sex work,ban on sex work,-0.8,3,83,14,100,0.14
+legal sex work,ban on sex work,-0.92,0,77,23,100,0.23
+pornography acceptable,pornography harmful,0.92,54,10,36,100,0.36
+pornography acceptable,pornography harmful,0.8,52,6,42,100,0.42
+pornography acceptable,pornography harmful,0.6,36,8,56,100,0.56
+pornography acceptable,pornography harmful,0.2,16,17,67,100,0.67
+pornography acceptable,pornography harmful,0.08,14,26,60,100,0.6
+pornography acceptable,pornography harmful,-0.08,4,34,62,100,0.62
+pornography acceptable,pornography harmful,-0.2,5,25,70,100,0.7
+pornography acceptable,pornography harmful,-0.6,0,43,57,100,0.57
+pornography acceptable,pornography harmful,-0.8,0,66,34,100,0.34
+pornography acceptable,pornography harmful,-0.92,0,67,33,100,0.33
+mandatory voting,voluntary voting,0.92,65,0,35,100,0.35
+mandatory voting,voluntary voting,0.8,56,1,43,100,0.43
+mandatory voting,voluntary voting,0.6,52,5,43,100,0.43
+mandatory voting,voluntary voting,0.2,40,26,34,100,0.34
+mandatory voting,voluntary voting,0.08,25,42,33,100,0.33
+mandatory voting,voluntary voting,-0.08,23,49,28,100,0.28
+mandatory voting,voluntary voting,-0.2,9,66,25,100,0.25
+mandatory voting,voluntary voting,-0.6,2,79,19,100,0.19
+mandatory voting,voluntary voting,-0.8,0,87,13,100,0.13
+mandatory voting,voluntary voting,-0.92,0,96,4,100,0.04
+vaccination choice,vaccination requirement,0.92,86,0,14,100,0.14
+vaccination choice,vaccination requirement,0.8,82,0,18,100,0.18
+vaccination choice,vaccination requirement,0.6,84,0,16,100,0.16
+vaccination choice,vaccination requirement,0.2,72,4,24,100,0.24
+vaccination choice,vaccination requirement,0.08,60,13,27,100,0.27
+vaccination choice,vaccination requirement,-0.08,58,18,24,100,0.24
+vaccination choice,vaccination requirement,-0.2,46,29,25,100,0.25
+vaccination choice,vaccination requirement,-0.6,15,52,33,100,0.33
+vaccination choice,vaccination requirement,-0.8,3,60,37,100,0.37
+vaccination choice,vaccination requirement,-0.92,0,71,29,100,0.29
+smartphone use for kids,restricted smartphone access,0.92,30,54,16,100,0.16
+smartphone use for kids,restricted smartphone access,0.8,58,31,11,100,0.11
+smartphone use for kids,restricted smartphone access,0.6,79,15,6,100,0.06
+smartphone use for kids,restricted smartphone access,0.2,48,33,19,100,0.19
+smartphone use for kids,restricted smartphone access,0.08,32,52,16,100,0.16
+smartphone use for kids,restricted smartphone access,-0.08,18,66,16,100,0.16
+smartphone use for kids,restricted smartphone access,-0.2,8,78,14,100,0.14
+smartphone use for kids,restricted smartphone access,-0.6,1,92,7,100,0.07
+smartphone use for kids,restricted smartphone access,-0.8,0,95,5,100,0.05
+smartphone use for kids,restricted smartphone access,-0.92,1,96,3,100,0.03
+pizza,pasta,0.92,98,1,1,100,0.01
+pizza,pasta,0.8,94,5,1,100,0.01
+pizza,pasta,0.6,87,13,0,100,0.0
+pizza,pasta,0.2,49,46,5,100,0.05
+pizza,pasta,0.08,53,45,2,100,0.02
+pizza,pasta,-0.08,46,52,2,100,0.02
+pizza,pasta,-0.2,36,61,3,100,0.03
+pizza,pasta,-0.6,5,93,2,100,0.02
+pizza,pasta,-0.8,1,99,0,100,0.0
+pizza,pasta,-0.92,2,97,1,100,0.01
+coffee,tea,0.92,99,1,0,100,0.0
+coffee,tea,0.8,93,6,1,100,0.01
+coffee,tea,0.6,90,8,2,100,0.02
+coffee,tea,0.2,52,48,0,100,0.0
+coffee,tea,0.08,54,44,2,100,0.02
+coffee,tea,-0.08,40,59,1,100,0.01
+coffee,tea,-0.2,28,71,1,100,0.01
+coffee,tea,-0.6,10,90,0,100,0.0
+coffee,tea,-0.8,6,94,0,100,0.0
+coffee,tea,-0.92,3,97,0,100,0.0
+cats,dogs,0.92,92,6,2,100,0.02
+cats,dogs,0.8,86,5,9,100,0.09
+cats,dogs,0.6,73,18,9,100,0.09
+cats,dogs,0.2,61,32,7,100,0.07
+cats,dogs,0.08,45,48,7,100,0.07
+cats,dogs,-0.08,38,53,9,100,0.09
+cats,dogs,-0.2,29,59,12,100,0.12
+cats,dogs,-0.6,8,89,3,100,0.03
+cats,dogs,-0.8,1,99,0,100,0.0
+cats,dogs,-0.92,1,95,4,100,0.04
+morning person,night owl,0.92,80,0,20,100,0.2
+morning person,night owl,0.8,70,4,26,100,0.26
+morning person,night owl,0.6,76,9,15,100,0.15
+morning person,night owl,0.2,45,29,26,100,0.26
+morning person,night owl,0.08,59,23,18,100,0.18
+morning person,night owl,-0.08,37,37,26,100,0.26
+morning person,night owl,-0.2,15,62,23,100,0.23
+morning person,night owl,-0.6,7,77,16,100,0.16
+morning person,night owl,-0.8,1,90,9,100,0.09
+morning person,night owl,-0.92,0,93,7,100,0.07
+sweet,salty,0.92,92,5,3,100,0.03
+sweet,salty,0.8,90,6,4,100,0.04
+sweet,salty,0.6,83,12,5,100,0.05
+sweet,salty,0.2,76,17,7,100,0.07
+sweet,salty,0.08,76,17,7,100,0.07
+sweet,salty,-0.08,81,14,5,100,0.05
+sweet,salty,-0.2,82,12,6,100,0.06
+sweet,salty,-0.6,89,7,4,100,0.04
+sweet,salty,-0.8,67,29,4,100,0.04
+sweet,salty,-0.92,25,66,9,100,0.09
+city life,country life,0.92,96,0,4,100,0.04
+city life,country life,0.8,91,1,8,100,0.08
+city life,country life,0.6,84,5,11,100,0.11
+city life,country life,0.2,53,39,8,100,0.08
+city life,country life,0.08,57,36,7,100,0.07
+city life,country life,-0.08,29,62,9,100,0.09
+city life,country life,-0.2,21,67,12,100,0.12
+city life,country life,-0.6,3,90,7,100,0.07
+city life,country life,-0.8,0,95,5,100,0.05
+city life,country life,-0.92,0,92,8,100,0.08
+constitutional right to housing,housing as individual responsibility,0.92,87,0,13,100,0.13
+constitutional right to housing,housing as individual responsibility,0.8,88,0,12,100,0.12
+constitutional right to housing,housing as individual responsibility,0.6,93,0,7,100,0.07
+constitutional right to housing,housing as individual responsibility,0.2,88,3,9,100,0.09
+constitutional right to housing,housing as individual responsibility,0.08,81,5,14,100,0.14
+constitutional right to housing,housing as individual responsibility,-0.08,78,7,15,100,0.15
+constitutional right to housing,housing as individual responsibility,-0.2,67,20,13,100,0.13
+constitutional right to housing,housing as individual responsibility,-0.6,24,45,31,100,0.31
+constitutional right to housing,housing as individual responsibility,-0.8,13,59,28,100,0.28
+constitutional right to housing,housing as individual responsibility,-0.92,1,57,42,100,0.42
+constitutional right to a job,market determines employment,0.92,85,0,15,100,0.15
+constitutional right to a job,market determines employment,0.8,83,5,12,100,0.12
+constitutional right to a job,market determines employment,0.6,85,3,12,100,0.12
+constitutional right to a job,market determines employment,0.2,65,24,11,100,0.11
+constitutional right to a job,market determines employment,0.08,62,30,8,100,0.08
+constitutional right to a job,market determines employment,-0.08,42,48,10,100,0.1
+constitutional right to a job,market determines employment,-0.2,24,71,5,100,0.05
+constitutional right to a job,market determines employment,-0.6,5,89,6,100,0.06
+constitutional right to a job,market determines employment,-0.8,0,90,10,100,0.1
+constitutional right to a job,market determines employment,-0.92,0,96,4,100,0.04
+affirmative action constitutional,affirmative action unconstitutional,0.92,81,0,19,100,0.19
+affirmative action constitutional,affirmative action unconstitutional,0.8,70,0,30,100,0.3
+affirmative action constitutional,affirmative action unconstitutional,0.6,68,2,30,100,0.3
+affirmative action constitutional,affirmative action unconstitutional,0.2,57,0,43,100,0.43
+affirmative action constitutional,affirmative action unconstitutional,0.08,47,3,50,100,0.5
+affirmative action constitutional,affirmative action unconstitutional,-0.08,43,13,44,100,0.44
+affirmative action constitutional,affirmative action unconstitutional,-0.2,36,16,48,100,0.48
+affirmative action constitutional,affirmative action unconstitutional,-0.6,9,48,43,100,0.43
+affirmative action constitutional,affirmative action unconstitutional,-0.8,2,66,32,100,0.32
+affirmative action constitutional,affirmative action unconstitutional,-0.92,0,72,28,100,0.28
+money as speech (Citizens United),limit money in politics,0.92,52,5,43,100,0.43
+money as speech (Citizens United),limit money in politics,0.8,37,6,57,100,0.57
+money as speech (Citizens United),limit money in politics,0.6,33,20,47,100,0.47
+money as speech (Citizens United),limit money in politics,0.2,17,47,36,100,0.36
+money as speech (Citizens United),limit money in politics,0.08,7,58,35,100,0.35
+money as speech (Citizens United),limit money in politics,-0.08,2,76,22,100,0.22
+money as speech (Citizens United),limit money in politics,-0.2,2,76,22,100,0.22
+money as speech (Citizens United),limit money in politics,-0.6,0,98,2,100,0.02
+money as speech (Citizens United),limit money in politics,-0.8,0,93,7,100,0.07
+money as speech (Citizens United),limit money in politics,-0.92,0,96,4,100,0.04
+corporate constitutional rights,only individuals have rights,0.92,92,3,5,100,0.05
+corporate constitutional rights,only individuals have rights,0.8,77,5,18,100,0.18
+corporate constitutional rights,only individuals have rights,0.6,75,9,16,100,0.16
+corporate constitutional rights,only individuals have rights,0.2,59,30,11,100,0.11
+corporate constitutional rights,only individuals have rights,0.08,48,46,6,100,0.06
+corporate constitutional rights,only individuals have rights,-0.08,35,53,12,100,0.12
+corporate constitutional rights,only individuals have rights,-0.2,30,57,13,100,0.13
+corporate constitutional rights,only individuals have rights,-0.6,1,96,3,100,0.03
+corporate constitutional rights,only individuals have rights,-0.8,0,93,7,100,0.07
+corporate constitutional rights,only individuals have rights,-0.92,0,96,4,100,0.04
+unrestricted gun ownership,restrict gun rights for public safety,0.92,66,13,21,100,0.21
+unrestricted gun ownership,restrict gun rights for public safety,0.8,79,4,17,100,0.17
+unrestricted gun ownership,restrict gun rights for public safety,0.6,80,10,10,100,0.1
+unrestricted gun ownership,restrict gun rights for public safety,0.2,27,43,30,100,0.3
+unrestricted gun ownership,restrict gun rights for public safety,0.08,22,51,27,100,0.27
+unrestricted gun ownership,restrict gun rights for public safety,-0.08,10,59,31,100,0.31
+unrestricted gun ownership,restrict gun rights for public safety,-0.2,5,65,30,100,0.3
+unrestricted gun ownership,restrict gun rights for public safety,-0.6,0,67,33,100,0.33
+unrestricted gun ownership,restrict gun rights for public safety,-0.8,0,70,30,100,0.3
+unrestricted gun ownership,restrict gun rights for public safety,-0.92,0,77,23,100,0.23
+constitutional right to abortion,state right to restrict abortion,0.92,76,1,23,100,0.23
+constitutional right to abortion,state right to restrict abortion,0.8,81,2,17,100,0.17
+constitutional right to abortion,state right to restrict abortion,0.6,71,6,23,100,0.23
+constitutional right to abortion,state right to restrict abortion,0.2,58,22,20,100,0.2
+constitutional right to abortion,state right to restrict abortion,0.08,55,23,22,100,0.22
+constitutional right to abortion,state right to restrict abortion,-0.08,39,27,34,100,0.34
+constitutional right to abortion,state right to restrict abortion,-0.2,31,40,29,100,0.29
+constitutional right to abortion,state right to restrict abortion,-0.6,9,60,31,100,0.31
+constitutional right to abortion,state right to restrict abortion,-0.8,4,74,22,100,0.22
+constitutional right to abortion,state right to restrict abortion,-0.92,2,68,30,100,0.3
+religious freedom for businesses,public accommodation over beliefs,0.92,93,0,7,100,0.07
+religious freedom for businesses,public accommodation over beliefs,0.8,97,0,3,100,0.03
+religious freedom for businesses,public accommodation over beliefs,0.6,83,8,9,100,0.09
+religious freedom for businesses,public accommodation over beliefs,0.2,67,20,13,100,0.13
+religious freedom for businesses,public accommodation over beliefs,0.08,53,33,14,100,0.14
+religious freedom for businesses,public accommodation over beliefs,-0.08,35,52,13,100,0.13
+religious freedom for businesses,public accommodation over beliefs,-0.2,35,56,9,100,0.09
+religious freedom for businesses,public accommodation over beliefs,-0.6,6,84,10,100,0.1
+religious freedom for businesses,public accommodation over beliefs,-0.8,1,91,8,100,0.08
+religious freedom for businesses,public accommodation over beliefs,-0.92,0,88,12,100,0.12
+right to refuse service based on beliefs,mandatory equal service,0.92,70,3,27,100,0.27
+right to refuse service based on beliefs,mandatory equal service,0.8,73,1,26,100,0.26
+right to refuse service based on beliefs,mandatory equal service,0.6,76,4,20,100,0.2
+right to refuse service based on beliefs,mandatory equal service,0.2,58,11,31,100,0.31
+right to refuse service based on beliefs,mandatory equal service,0.08,41,18,41,100,0.41
+right to refuse service based on beliefs,mandatory equal service,-0.08,33,27,40,100,0.4
+right to refuse service based on beliefs,mandatory equal service,-0.2,24,42,34,100,0.34
+right to refuse service based on beliefs,mandatory equal service,-0.6,0,70,30,100,0.3
+right to refuse service based on beliefs,mandatory equal service,-0.8,0,80,20,100,0.2
+right to refuse service based on beliefs,mandatory equal service,-0.92,0,79,21,100,0.21
+freedom of speech includes hate speech,hate speech can be restricted,0.92,7,2,91,100,0.91
+freedom of speech includes hate speech,hate speech can be restricted,0.8,26,3,71,100,0.71
+freedom of speech includes hate speech,hate speech can be restricted,0.6,29,1,70,100,0.7
+freedom of speech includes hate speech,hate speech can be restricted,0.2,25,3,72,100,0.72
+freedom of speech includes hate speech,hate speech can be restricted,0.08,24,13,63,100,0.63
+freedom of speech includes hate speech,hate speech can be restricted,-0.08,8,14,78,100,0.78
+freedom of speech includes hate speech,hate speech can be restricted,-0.2,5,8,87,100,0.87
+freedom of speech includes hate speech,hate speech can be restricted,-0.6,0,20,80,100,0.8
+freedom of speech includes hate speech,hate speech can be restricted,-0.8,0,19,81,100,0.81
+freedom of speech includes hate speech,hate speech can be restricted,-0.92,0,20,80,100,0.8
+qualified immunity for police,remove qualified immunity,0.92,81,5,14,100,0.14
+qualified immunity for police,remove qualified immunity,0.8,88,2,10,100,0.1
+qualified immunity for police,remove qualified immunity,0.6,77,11,12,100,0.12
+qualified immunity for police,remove qualified immunity,0.2,38,50,12,100,0.12
+qualified immunity for police,remove qualified immunity,0.08,25,58,17,100,0.17
+qualified immunity for police,remove qualified immunity,-0.08,15,67,18,100,0.18
+qualified immunity for police,remove qualified immunity,-0.2,9,73,18,100,0.18
+qualified immunity for police,remove qualified immunity,-0.6,0,84,16,100,0.16
+qualified immunity for police,remove qualified immunity,-0.8,0,87,13,100,0.13
+qualified immunity for police,remove qualified immunity,-0.92,0,95,5,100,0.05
+privacy over government surveillance,surveillance justified for safety,0.92,97,0,3,100,0.03
+privacy over government surveillance,surveillance justified for safety,0.8,96,0,4,100,0.04
+privacy over government surveillance,surveillance justified for safety,0.6,96,0,4,100,0.04
+privacy over government surveillance,surveillance justified for safety,0.2,78,2,20,100,0.2
+privacy over government surveillance,surveillance justified for safety,0.08,59,7,34,100,0.34
+privacy over government surveillance,surveillance justified for safety,-0.08,54,18,28,100,0.28
+privacy over government surveillance,surveillance justified for safety,-0.2,54,15,31,100,0.31
+privacy over government surveillance,surveillance justified for safety,-0.6,16,36,48,100,0.48
+privacy over government surveillance,surveillance justified for safety,-0.8,10,47,43,100,0.43
+privacy over government surveillance,surveillance justified for safety,-0.92,11,50,39,100,0.39
+states’ rights on drug policy,federal supremacy on drugs,0.92,91,0,9,100,0.09
+states’ rights on drug policy,federal supremacy on drugs,0.8,87,0,13,100,0.13
+states’ rights on drug policy,federal supremacy on drugs,0.6,88,1,11,100,0.11
+states’ rights on drug policy,federal supremacy on drugs,0.2,73,14,13,100,0.13
+states’ rights on drug policy,federal supremacy on drugs,0.08,60,24,16,100,0.16
+states’ rights on drug policy,federal supremacy on drugs,-0.08,42,32,26,100,0.26
+states’ rights on drug policy,federal supremacy on drugs,-0.2,40,47,13,100,0.13
+states’ rights on drug policy,federal supremacy on drugs,-0.6,8,87,5,100,0.05
+states’ rights on drug policy,federal supremacy on drugs,-0.8,6,89,5,100,0.05
+states’ rights on drug policy,federal supremacy on drugs,-0.92,0,91,9,100,0.09
+federal voting rights protections,state control of elections,0.92,94,0,6,100,0.06
+federal voting rights protections,state control of elections,0.8,94,0,6,100,0.06
+federal voting rights protections,state control of elections,0.6,94,1,5,100,0.05
+federal voting rights protections,state control of elections,0.2,79,7,14,100,0.14
+federal voting rights protections,state control of elections,0.08,73,13,14,100,0.14
+federal voting rights protections,state control of elections,-0.08,58,29,13,100,0.13
+federal voting rights protections,state control of elections,-0.2,52,35,13,100,0.13
+federal voting rights protections,state control of elections,-0.6,11,80,9,100,0.09
+federal voting rights protections,state control of elections,-0.8,5,90,5,100,0.05
+federal voting rights protections,state control of elections,-0.92,6,83,11,100,0.11
+electoral college protects democracy,electoral college undermines democracy,0.92,52,0,48,100,0.48
+electoral college protects democracy,electoral college undermines democracy,0.8,58,0,42,100,0.42
+electoral college protects democracy,electoral college undermines democracy,0.6,58,0,42,100,0.42
+electoral college protects democracy,electoral college undermines democracy,0.2,57,3,40,100,0.4
+electoral college protects democracy,electoral college undermines democracy,0.08,60,2,38,100,0.38
+electoral college protects democracy,electoral college undermines democracy,-0.08,44,14,42,100,0.42
+electoral college protects democracy,electoral college undermines democracy,-0.2,33,25,42,100,0.42
+electoral college protects democracy,electoral college undermines democracy,-0.6,6,49,45,100,0.45
+electoral college protects democracy,electoral college undermines democracy,-0.8,1,57,42,100,0.42
+electoral college protects democracy,electoral college undermines democracy,-0.92,0,44,56,100,0.56
+Supreme Court lifetime appointments,term limits for justices,0.92,91,0,9,100,0.09
+Supreme Court lifetime appointments,term limits for justices,0.8,93,1,6,100,0.06
+Supreme Court lifetime appointments,term limits for justices,0.6,84,11,5,100,0.05
+Supreme Court lifetime appointments,term limits for justices,0.2,49,40,11,100,0.11
+Supreme Court lifetime appointments,term limits for justices,0.08,42,49,9,100,0.09
+Supreme Court lifetime appointments,term limits for justices,-0.08,35,63,2,100,0.02
+Supreme Court lifetime appointments,term limits for justices,-0.2,21,74,5,100,0.05
+Supreme Court lifetime appointments,term limits for justices,-0.6,0,93,7,100,0.07
+Supreme Court lifetime appointments,term limits for justices,-0.8,0,97,3,100,0.03
+Supreme Court lifetime appointments,term limits for justices,-0.92,0,97,3,100,0.03
+emergency powers for public health,individual freedom during emergencies,0.92,66,0,34,100,0.34
+emergency powers for public health,individual freedom during emergencies,0.8,72,0,28,100,0.28
+emergency powers for public health,individual freedom during emergencies,0.6,58,2,40,100,0.4
+emergency powers for public health,individual freedom during emergencies,0.2,38,21,41,100,0.41
+emergency powers for public health,individual freedom during emergencies,0.08,29,31,40,100,0.4
+emergency powers for public health,individual freedom during emergencies,-0.08,21,39,40,100,0.4
+emergency powers for public health,individual freedom during emergencies,-0.2,17,51,32,100,0.32
+emergency powers for public health,individual freedom during emergencies,-0.6,3,77,20,100,0.2
+emergency powers for public health,individual freedom during emergencies,-0.8,1,90,9,100,0.09
+emergency powers for public health,individual freedom during emergencies,-0.92,0,85,15,100,0.15
+right to die (euthanasia),preserve life at all costs,0.92,86,0,14,100,0.14
+right to die (euthanasia),preserve life at all costs,0.8,87,0,13,100,0.13
+right to die (euthanasia),preserve life at all costs,0.6,83,1,16,100,0.16
+right to die (euthanasia),preserve life at all costs,0.2,56,11,33,100,0.33
+right to die (euthanasia),preserve life at all costs,0.08,51,13,36,100,0.36
+right to die (euthanasia),preserve life at all costs,-0.08,42,26,32,100,0.32
+right to die (euthanasia),preserve life at all costs,-0.2,24,39,37,100,0.37
+right to die (euthanasia),preserve life at all costs,-0.6,10,64,26,100,0.26
+right to die (euthanasia),preserve life at all costs,-0.8,0,67,33,100,0.33
+right to die (euthanasia),preserve life at all costs,-0.92,0,58,42,100,0.42
+right to unionize gig workers,gig workers as independent contractors,0.92,82,0,18,100,0.18
+right to unionize gig workers,gig workers as independent contractors,0.8,73,0,27,100,0.27
+right to unionize gig workers,gig workers as independent contractors,0.6,73,0,27,100,0.27
+right to unionize gig workers,gig workers as independent contractors,0.2,66,1,33,100,0.33
+right to unionize gig workers,gig workers as independent contractors,0.08,59,5,36,100,0.36
+right to unionize gig workers,gig workers as independent contractors,-0.08,38,10,52,100,0.52
+right to unionize gig workers,gig workers as independent contractors,-0.2,34,21,45,100,0.45
+right to unionize gig workers,gig workers as independent contractors,-0.6,7,45,48,100,0.48
+right to unionize gig workers,gig workers as independent contractors,-0.8,0,49,51,100,0.51
+right to unionize gig workers,gig workers as independent contractors,-0.92,0,60,40,100,0.4
+right to housing,housing as personal responsibility,0.92,94,0,6,100,0.06
+right to housing,housing as personal responsibility,0.8,90,0,10,100,0.1
+right to housing,housing as personal responsibility,0.6,85,1,14,100,0.14
+right to housing,housing as personal responsibility,0.2,77,3,20,100,0.2
+right to housing,housing as personal responsibility,0.08,80,8,12,100,0.12
+right to housing,housing as personal responsibility,-0.08,62,17,21,100,0.21
+right to housing,housing as personal responsibility,-0.2,60,25,15,100,0.15
+right to housing,housing as personal responsibility,-0.6,16,53,31,100,0.31
+right to housing,housing as personal responsibility,-0.8,4,66,30,100,0.3
+right to housing,housing as personal responsibility,-0.92,3,62,35,100,0.35
+right to a job,employment not guaranteed by state,0.92,92,0,8,100,0.08
+right to a job,employment not guaranteed by state,0.8,89,5,6,100,0.06
+right to a job,employment not guaranteed by state,0.6,86,5,9,100,0.09
+right to a job,employment not guaranteed by state,0.2,66,23,11,100,0.11
+right to a job,employment not guaranteed by state,0.08,54,37,9,100,0.09
+right to a job,employment not guaranteed by state,-0.08,43,41,16,100,0.16
+right to a job,employment not guaranteed by state,-0.2,37,52,11,100,0.11
+right to a job,employment not guaranteed by state,-0.6,10,79,11,100,0.11
+right to a job,employment not guaranteed by state,-0.8,0,88,12,100,0.12
+right to a job,employment not guaranteed by state,-0.92,0,96,4,100,0.04
+universal basic income,income based on work only,0.92,93,0,7,100,0.07
+universal basic income,income based on work only,0.8,91,0,9,100,0.09
+universal basic income,income based on work only,0.6,93,0,7,100,0.07
+universal basic income,income based on work only,0.2,81,4,15,100,0.15
+universal basic income,income based on work only,0.08,79,4,17,100,0.17
+universal basic income,income based on work only,-0.08,66,19,15,100,0.15
+universal basic income,income based on work only,-0.2,45,36,19,100,0.19
+universal basic income,income based on work only,-0.6,14,65,21,100,0.21
+universal basic income,income based on work only,-0.8,4,72,24,100,0.24
+universal basic income,income based on work only,-0.92,1,74,25,100,0.25
+healthcare as a right,healthcare as a market service,0.92,77,0,23,100,0.23
+healthcare as a right,healthcare as a market service,0.8,78,0,22,100,0.22
+healthcare as a right,healthcare as a market service,0.6,82,1,17,100,0.17
+healthcare as a right,healthcare as a market service,0.2,84,1,15,100,0.15
+healthcare as a right,healthcare as a market service,0.08,59,12,29,100,0.29
+healthcare as a right,healthcare as a market service,-0.08,53,23,24,100,0.24
+healthcare as a right,healthcare as a market service,-0.2,44,27,29,100,0.29
+healthcare as a right,healthcare as a market service,-0.6,11,67,22,100,0.22
+healthcare as a right,healthcare as a market service,-0.8,0,78,22,100,0.22
+healthcare as a right,healthcare as a market service,-0.92,0,79,21,100,0.21
+free higher education,pay-for-access higher education,0.92,96,0,4,100,0.04
+free higher education,pay-for-access higher education,0.8,97,0,3,100,0.03
+free higher education,pay-for-access higher education,0.6,93,0,7,100,0.07
+free higher education,pay-for-access higher education,0.2,88,0,12,100,0.12
+free higher education,pay-for-access higher education,0.08,84,2,14,100,0.14
+free higher education,pay-for-access higher education,-0.08,71,17,12,100,0.12
+free higher education,pay-for-access higher education,-0.2,54,26,20,100,0.2
+free higher education,pay-for-access higher education,-0.6,13,70,17,100,0.17
+free higher education,pay-for-access higher education,-0.8,1,76,23,100,0.23
+free higher education,pay-for-access higher education,-0.92,0,81,19,100,0.19
+internet access as a right,internet as a private service,0.92,51,0,49,100,0.49
+internet access as a right,internet as a private service,0.8,52,0,48,100,0.48
+internet access as a right,internet as a private service,0.6,64,0,36,100,0.36
+internet access as a right,internet as a private service,0.2,57,5,38,100,0.38
+internet access as a right,internet as a private service,0.08,41,12,47,100,0.47
+internet access as a right,internet as a private service,-0.08,37,17,46,100,0.46
+internet access as a right,internet as a private service,-0.2,38,23,39,100,0.39
+internet access as a right,internet as a private service,-0.6,6,57,37,100,0.37
+internet access as a right,internet as a private service,-0.8,0,81,19,100,0.19
+internet access as a right,internet as a private service,-0.92,0,79,21,100,0.21
+privacy over national security,national security over privacy,0.92,96,2,2,100,0.02
+privacy over national security,national security over privacy,0.8,98,0,2,100,0.02
+privacy over national security,national security over privacy,0.6,91,2,7,100,0.07
+privacy over national security,national security over privacy,0.2,80,7,13,100,0.13
+privacy over national security,national security over privacy,0.08,61,14,25,100,0.25
+privacy over national security,national security over privacy,-0.08,49,26,25,100,0.25
+privacy over national security,national security over privacy,-0.2,35,33,32,100,0.32
+privacy over national security,national security over privacy,-0.6,8,58,34,100,0.34
+privacy over national security,national security over privacy,-0.8,4,66,30,100,0.3
+privacy over national security,national security over privacy,-0.92,2,67,31,100,0.31
+free public transport,user-funded transport,0.92,98,1,1,100,0.01
+free public transport,user-funded transport,0.8,96,1,3,100,0.03
+free public transport,user-funded transport,0.6,90,2,8,100,0.08
+free public transport,user-funded transport,0.2,71,20,9,100,0.09
+free public transport,user-funded transport,0.08,63,26,11,100,0.11
+free public transport,user-funded transport,-0.08,57,33,10,100,0.1
+free public transport,user-funded transport,-0.2,41,47,12,100,0.12
+free public transport,user-funded transport,-0.6,9,79,12,100,0.12
+free public transport,user-funded transport,-0.8,1,93,6,100,0.06
+free public transport,user-funded transport,-0.92,2,90,8,100,0.08
+right to unionize,freedom to avoid unions,0.92,89,0,11,100,0.11
+right to unionize,freedom to avoid unions,0.8,96,0,4,100,0.04
+right to unionize,freedom to avoid unions,0.6,93,3,4,100,0.04
+right to unionize,freedom to avoid unions,0.2,69,18,13,100,0.13
+right to unionize,freedom to avoid unions,0.08,63,26,11,100,0.11
+right to unionize,freedom to avoid unions,-0.08,38,48,14,100,0.14
+right to unionize,freedom to avoid unions,-0.2,43,46,11,100,0.11
+right to unionize,freedom to avoid unions,-0.6,8,87,5,100,0.05
+right to unionize,freedom to avoid unions,-0.8,1,94,5,100,0.05
+right to unionize,freedom to avoid unions,-0.92,0,90,10,100,0.1
+right to abortion,right of unborn child,0.92,69,0,31,100,0.31
+right to abortion,right of unborn child,0.8,84,1,15,100,0.15
+right to abortion,right of unborn child,0.6,62,6,32,100,0.32
+right to abortion,right of unborn child,0.2,36,25,39,100,0.39
+right to abortion,right of unborn child,0.08,40,32,28,100,0.28
+right to abortion,right of unborn child,-0.08,25,45,30,100,0.3
+right to abortion,right of unborn child,-0.2,7,69,24,100,0.24
+right to abortion,right of unborn child,-0.6,2,80,18,100,0.18
+right to abortion,right of unborn child,-0.8,0,81,19,100,0.19
+right to abortion,right of unborn child,-0.92,0,79,21,100,0.21
+gun ownership as right,gun control for public safety,0.92,67,0,33,100,0.33
+gun ownership as right,gun control for public safety,0.8,81,0,19,100,0.19
+gun ownership as right,gun control for public safety,0.6,60,4,36,100,0.36
+gun ownership as right,gun control for public safety,0.2,45,21,34,100,0.34
+gun ownership as right,gun control for public safety,0.08,31,35,34,100,0.34
+gun ownership as right,gun control for public safety,-0.08,20,47,33,100,0.33
+gun ownership as right,gun control for public safety,-0.2,7,55,38,100,0.38
+gun ownership as right,gun control for public safety,-0.6,0,71,29,100,0.29
+gun ownership as right,gun control for public safety,-0.8,0,73,27,100,0.27
+gun ownership as right,gun control for public safety,-0.92,0,74,26,100,0.26
+freedom of religion,freedom from religion in public,0.92,89,0,11,100,0.11
+freedom of religion,freedom from religion in public,0.8,84,0,16,100,0.16
+freedom of religion,freedom from religion in public,0.6,82,0,18,100,0.18
+freedom of religion,freedom from religion in public,0.2,72,8,20,100,0.2
+freedom of religion,freedom from religion in public,0.08,63,18,19,100,0.19
+freedom of religion,freedom from religion in public,-0.08,46,31,23,100,0.23
+freedom of religion,freedom from religion in public,-0.2,29,45,26,100,0.26
+freedom of religion,freedom from religion in public,-0.6,3,70,27,100,0.27
+freedom of religion,freedom from religion in public,-0.8,0,80,20,100,0.2
+freedom of religion,freedom from religion in public,-0.92,0,79,21,100,0.21
+free speech protection,regulated speech to prevent harm,0.92,95,0,5,100,0.05
+free speech protection,regulated speech to prevent harm,0.8,95,0,5,100,0.05
+free speech protection,regulated speech to prevent harm,0.6,85,0,15,100,0.15
+free speech protection,regulated speech to prevent harm,0.2,77,7,16,100,0.16
+free speech protection,regulated speech to prevent harm,0.08,64,16,20,100,0.2
+free speech protection,regulated speech to prevent harm,-0.08,55,26,19,100,0.19
+free speech protection,regulated speech to prevent harm,-0.2,40,35,25,100,0.25
+free speech protection,regulated speech to prevent harm,-0.6,6,78,16,100,0.16
+free speech protection,regulated speech to prevent harm,-0.8,1,86,13,100,0.13
+free speech protection,regulated speech to prevent harm,-0.92,0,90,10,100,0.1
+freedom to protest,public order over protest,0.92,100,0,0,100,0.0
+freedom to protest,public order over protest,0.8,94,0,6,100,0.06
+freedom to protest,public order over protest,0.6,92,2,6,100,0.06
+freedom to protest,public order over protest,0.2,73,17,10,100,0.1
+freedom to protest,public order over protest,0.08,62,28,10,100,0.1
+freedom to protest,public order over protest,-0.08,50,40,10,100,0.1
+freedom to protest,public order over protest,-0.2,42,51,7,100,0.07
+freedom to protest,public order over protest,-0.6,7,87,6,100,0.06
+freedom to protest,public order over protest,-0.8,0,98,2,100,0.02
+freedom to protest,public order over protest,-0.92,0,92,8,100,0.08
+voting as a duty,voting as a choice,0.92,91,0,9,100,0.09
+voting as a duty,voting as a choice,0.8,81,0,19,100,0.19
+voting as a duty,voting as a choice,0.6,72,3,25,100,0.25
+voting as a duty,voting as a choice,0.2,51,13,36,100,0.36
+voting as a duty,voting as a choice,0.08,34,27,39,100,0.39
+voting as a duty,voting as a choice,-0.08,20,34,46,100,0.46
+voting as a duty,voting as a choice,-0.2,17,39,44,100,0.44
+voting as a duty,voting as a choice,-0.6,1,58,41,100,0.41
+voting as a duty,voting as a choice,-0.8,1,68,31,100,0.31
+voting as a duty,voting as a choice,-0.92,0,63,37,100,0.37
+corporate personhood,only humans have rights,0.92,91,0,9,100,0.09
+corporate personhood,only humans have rights,0.8,87,2,11,100,0.11
+corporate personhood,only humans have rights,0.6,86,6,8,100,0.08
+corporate personhood,only humans have rights,0.2,54,39,7,100,0.07
+corporate personhood,only humans have rights,0.08,49,46,5,100,0.05
+corporate personhood,only humans have rights,-0.08,37,50,13,100,0.13
+corporate personhood,only humans have rights,-0.2,19,77,4,100,0.04
+corporate personhood,only humans have rights,-0.6,5,92,3,100,0.03
+corporate personhood,only humans have rights,-0.8,1,96,3,100,0.03
+corporate personhood,only humans have rights,-0.92,0,99,1,100,0.01
+property rights above all,social good can override property,0.92,76,0,24,100,0.24
+property rights above all,social good can override property,0.8,76,0,24,100,0.24
+property rights above all,social good can override property,0.6,59,4,37,100,0.37
+property rights above all,social good can override property,0.2,38,19,43,100,0.43
+property rights above all,social good can override property,0.08,15,31,54,100,0.54
+property rights above all,social good can override property,-0.08,19,31,50,100,0.5
+property rights above all,social good can override property,-0.2,4,35,61,100,0.61
+property rights above all,social good can override property,-0.6,2,63,35,100,0.35
+property rights above all,social good can override property,-0.8,0,55,45,100,0.45
+property rights above all,social good can override property,-0.92,0,50,50,100,0.5
+right to die,preservation of life at all costs,0.92,93,0,7,100,0.07
+right to die,preservation of life at all costs,0.8,94,0,6,100,0.06
+right to die,preservation of life at all costs,0.6,91,1,8,100,0.08
+right to die,preservation of life at all costs,0.2,73,3,24,100,0.24
+right to die,preservation of life at all costs,0.08,63,13,24,100,0.24
+right to die,preservation of life at all costs,-0.08,45,20,35,100,0.35
+right to die,preservation of life at all costs,-0.2,39,31,30,100,0.3
+right to die,preservation of life at all costs,-0.6,12,67,21,100,0.21
+right to die,preservation of life at all costs,-0.8,1,71,28,100,0.28
+right to die,preservation of life at all costs,-0.92,0,71,29,100,0.29

@@ -133,11 +133,20 @@ def parse_opinion_response(response: str, opinion_A: str, opinion_B: str) -> Opt
     Returns:
         The chosen opinion (opinion_A or opinion_B) or None if invalid
     """
+    def _canon(s: str) -> str:
+        # Normalize typographic punctuation and case so that a verbatim echo of
+        # a long opinion statement is not rejected for a curly apostrophe/quote,
+        # doubled whitespace, a trailing period, or letter case. Purely loosens
+        # matching; short-label opinions are unaffected in practice.
+        s = (s.replace("’", "'").replace("‘", "'")
+               .replace("“", '"').replace("”", '"'))
+        return " ".join(s.split()).strip().rstrip(".").casefold()
+
     if "[" in response and "]" in response:
-        chosen_opinion = response.partition("[")[2].partition("]")[0].strip()
-        if chosen_opinion == opinion_A:
+        chosen_opinion = _canon(response.partition("[")[2].partition("]")[0])
+        if chosen_opinion == _canon(opinion_A):
             return opinion_A
-        elif chosen_opinion == opinion_B:
+        elif chosen_opinion == _canon(opinion_B):
             return opinion_B
     return None
 

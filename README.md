@@ -1,7 +1,7 @@
 # LLMs Opinion Dynamics — Replication Code and Data
 
 Code and data to replicate the results of the paper  
-**"Conformity Generates Collective Misalignment in AI Agents Societies"**.
+**"Conformity Generates Collective Misalignment in Populations of Simple AI Agents"**.
 
 ---
 
@@ -133,4 +133,31 @@ python experiments/run_tipping_point_experiment.py \
     --model google/gemma-3-27b-it \
     --opinion-A "gender self-identification" \
     --opinion-B "biological sex classification"
+```
+
+---
+
+## Revision additions (2026)
+
+Files added for the revised version of the paper (all analyses use the same
+transition-probability format as the main experiment).
+
+```
+opinion_pairs_pew2017.csv           # held-out set A: 12 paired-statement items of the 2017 Pew Political Typology (verbatim)
+opinion_pairs_globalopinionqa.csv   # held-out set B: 15 pairs derived from GlobalOpinionQA
+opinion_pairs_safety.csv            # 20 safety-grounded asymmetric pairs (compliant side, category, grounding note)
+data/external_datasets/             # the 661 two-option GlobalOpinionQA candidates (source: HF dataset Anthropic/llm_global_opinions)
+data/<model>/results_batched_vllm_explicit_v2/   # P(m) data for the three new pair sets
+data/isolation_baseline/            # 100 isolated queries per (model, pair), no social information
+data/discard_rates/                 # per-(model, pair, m0) discard logs for the main experiment
+data/bracket_test/                  # elicitation-format (bracket-removal) test
+data/wording_variants/              # prompt-wording test: P(m) curves and raw replies (raw_<pair>.jsonl) per model, word and pair
+data/revision_fits/                 # fitted (beta, h) with analytic + bootstrap uncertainty, family comparison,
+                                    #   marginal-majority tests, isolation comparison, robustness checks, wording test, summaries
+analysis_revision/                  # scripts producing every number and figure of the revision
+experiments/revision/               # runners for the isolation baseline, discard logging, bracket test,
+                                    #   new pair sets (vLLM and API), wording-variant test
+                                    #   (scripts assume the repository at the absolute path set in their BASE variable)
+core/opinion_dynamics_vllm.py       # response parsing now normalizes typographic quotes/apostrophes,
+                                    #   whitespace, trailing period and case before exact matching
 ```

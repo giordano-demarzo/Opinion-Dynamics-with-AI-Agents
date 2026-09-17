@@ -1,0 +1,121 @@
+Opinion_A,Opinion_B,m0,count_A,count_B,invalid,n_total,discard_rate
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,0.92,100,0,0,100,0.0
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,0.8,100,0,0,100,0.0
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,0.6,100,0,0,100,0.0
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,0.2,100,0,0,100,0.0
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,0.08,100,0,0,100,0.0
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,-0.08,100,0,0,100,0.0
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,-0.2,100,0,0,100,0.0
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,-0.6,70,30,0,100,0.0
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,-0.8,52,47,1,100,0.01
+Government regulation of business is necessary to protect the public interest,Government regulation of business usually does more harm than good,-0.92,34,66,0,100,0.0
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,0.92,62,37,1,100,0.01
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,0.8,47,53,0,100,0.0
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,0.6,28,72,0,100,0.0
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,0.2,10,90,0,100,0.0
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,0.08,4,96,0,100,0.0
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,-0.08,5,95,0,100,0.0
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,-0.2,0,100,0,100,0.0
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,-0.6,0,100,0,100,0.0
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,-0.8,0,100,0,100,0.0
+Poor people today have it easy because they can get government benefits without doing anything in return,Poor people have hard lives because government benefits don't go far enough to help them live decently,-0.92,0,100,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",0.92,100,0,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",0.8,100,0,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",0.6,100,0,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",0.2,100,0,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",0.08,100,0,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",-0.08,100,0,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",-0.2,100,0,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",-0.6,100,0,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",-0.8,97,3,0,100,0.0
+Immigrants today strengthen our country because of their hard work and talents,"Immigrants today are a burden on our country because they take our jobs, housing and health care",-0.92,93,7,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,0.92,72,28,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,0.8,69,31,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,0.6,55,45,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,0.2,47,53,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,0.08,47,53,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,-0.08,37,63,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,-0.2,28,72,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,-0.6,22,78,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,-0.8,13,87,0,100,0.0
+Most people who want to get ahead can make it if they're willing to work hard,Hard work and determination are no guarantee of success for most people,-0.92,7,93,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,0.92,75,25,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,0.8,73,27,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,0.6,57,43,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,0.2,62,38,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,0.08,50,50,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,-0.08,35,65,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,-0.2,24,76,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,-0.6,10,90,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,-0.8,6,94,0,100,0.0
+Business corporations make too much profit,Most corporations make a fair and reasonable amount of profit,-0.92,12,88,0,100,0.0
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,0.92,31,69,0,100,0.0
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,0.8,37,63,0,100,0.0
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,0.6,29,71,0,100,0.0
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,0.2,4,96,0,100,0.0
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,0.08,1,98,1,100,0.01
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,-0.08,3,96,1,100,0.01
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,-0.2,0,100,0,100,0.0
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,-0.6,0,99,1,100,0.01
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,-0.8,0,100,0,100,0.0
+Stricter environmental laws and regulations cost too many jobs and hurt the economy,Stricter environmental laws and regulations are worth the cost,-0.92,3,97,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,0.92,100,0,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,0.8,100,0,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,0.6,100,0,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,0.2,100,0,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,0.08,100,0,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,-0.08,100,0,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,-0.2,100,0,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,-0.6,99,1,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,-0.8,100,0,0,100,0.0
+Homosexuality should be accepted by society,Homosexuality should be discouraged by society,-0.92,98,2,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",0.92,83,17,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",0.8,94,6,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",0.6,94,6,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",0.2,94,6,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",0.08,86,14,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",-0.08,66,34,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",-0.2,58,42,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",-0.6,25,75,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",-0.8,30,70,0,100,0.0
+"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them","In foreign policy, the U.S. should follow its OWN national interests even when its allies strongly disagree",-0.92,38,62,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,0.92,100,0,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,0.8,100,0,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,0.6,100,0,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,0.2,100,0,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,0.08,99,1,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,-0.08,96,4,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,-0.2,72,28,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,-0.6,30,70,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,-0.8,20,80,0,100,0.0
+It's best for the future of our country to be active in world affairs,We should pay less attention to problems overseas and concentrate on problems here at home,-0.92,10,90,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,0.92,74,26,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,0.8,58,42,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,0.6,44,56,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,0.2,9,91,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,0.08,2,98,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,-0.08,1,99,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,-0.2,1,99,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,-0.6,0,100,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,-0.8,0,100,0,100,0.0
+Our country has made the changes needed to give blacks equal rights with whites,Our country needs to continue making changes to give blacks equal rights with whites,-0.92,0,100,0,100,0.0
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,0.92,100,0,0,100,0.0
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,0.8,100,0,0,100,0.0
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,0.6,98,0,2,100,0.02
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,0.2,89,11,0,100,0.0
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,0.08,73,27,0,100,0.0
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,-0.08,60,40,0,100,0.0
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,-0.2,30,70,0,100,0.0
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,-0.6,20,80,0,100,0.0
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,-0.8,14,86,0,100,0.0
+The economic system in this country unfairly favors powerful interests,The economic system in this country is generally fair to most Americans,-0.92,18,82,0,100,0.0
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,0.92,16,83,1,100,0.01
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,0.8,13,87,0,100,0.0
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,0.6,11,88,1,100,0.01
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,0.2,2,98,0,100,0.0
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,0.08,1,99,0,100,0.0
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,-0.08,1,99,0,100,0.0
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,-0.2,0,100,0,100,0.0
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,-0.6,0,100,0,100,0.0
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,-0.8,0,100,0,100,0.0
+The obstacles that once made it harder for women than men to get ahead are now largely gone,There are still significant obstacles that make it harder for women to get ahead than men,-0.92,0,100,0,100,0.0

@@ -1,0 +1,41 @@
+N (model,pair) combos fitted with all four families: 963
+
+BIC winner counts (lowest BIC):
+  tanh      405  (42.1%)
+  jump      363  (37.7%)
+  linear    162  (16.8%)
+  step       33  (3.4%)
+
+linear (voter-like) vs tanh:
+  tanh favored (dBIC>2):  69.2%
+  tanh strongly favored (dBIC>6): 62.8%
+  linear (voter-like) favored (dBIC<-2): 18.8%
+  median dBIC (alt - tanh): 13.7
+
+step vs tanh:
+  tanh favored (dBIC>2):  91.4%
+  tanh strongly favored (dBIC>6): 86.8%
+  step favored (dBIC<-2): 6.2%
+  median dBIC (alt - tanh): 106.0
+
+tanh+jump vs tanh:
+  tanh favored (dBIC>2):  23.9%
+  tanh strongly favored (dBIC>6): 0.0%
+  tanh+jump favored (dBIC<-2): 37.3%
+  median dBIC (alt - tanh): -0.0
+
+Per-model tanh win fraction (tanh or tanh+jump lowest BIC):
+  Llama-3.1-8B-Instruct        66.4%  (plain tanh alone: 32.7%)  n=107
+  Qwen2.5-14B-Instruct         92.5%  (plain tanh alone: 48.6%)  n=107
+  Qwen2.5-32B-Instruct         84.1%  (plain tanh alone: 42.1%)  n=107
+  Qwen3-14B                    78.5%  (plain tanh alone: 37.4%)  n=107
+  Qwen3-32B                    69.2%  (plain tanh alone: 32.7%)  n=107
+  gemini-2.5-flash-lite        87.9%  (plain tanh alone: 51.4%)  n=107
+  gemma-3-12b-it               70.1%  (plain tanh alone: 35.5%)  n=107
+  gemma-3-27b-it               78.5%  (plain tanh alone: 54.2%)  n=107
+  gpt-5-mini                   90.7%  (plain tanh alone: 43.9%)  n=107
+
+pure voter P=(1+m)/2 (k=0) vs tanh:
+  tanh strongly favored (dBIC>6): 99.1%
+  voter favored (dBIC<-2): 0.4%
+  median dBIC (voter - tanh): 285
